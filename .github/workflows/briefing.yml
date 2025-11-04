@@ -26,15 +26,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Build briefing files
+      - name: Build briefing.json
         run: |
           python scripts/make_briefing.py
-          ls -l briefing.*
+          test -f briefing.json && head -n 30 briefing.json || true
 
       - name: Commit and push
         run: |
           git config user.name "briefing-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add briefing.json briefing.html
+          git add briefing.json
           git commit -m "update briefing $(date -u +'%F %T')" || echo "no changes"
           git push
