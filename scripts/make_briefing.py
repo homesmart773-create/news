@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
-Morning Briefing (네이버 검색 뉴스 API + 네이버 금융 상한가 + 섹터)
-- 뉴스: 네이버 검색 뉴스 Open API (키 없으면 네이버 RSS로 폴백)
-- 상한가: 네이버 금융 상한가 페이지 파싱(실제 상한가 10개, reason은 공란)
+Morning Briefing (네이버 뉴스 API + 네이버 금융 상한가 + 섹터)
+- 뉴스: 네이버 검색 뉴스 Open API (키 없거나 실패 시 네이버 RSS 8카테고리 폴백)
+- 상한가: 네이버 금융 상한가 페이지 파싱(실제 상한가 10개)
 - 섹터: data/sectors.json
 
 출력: briefing.json
@@ -19,7 +19,7 @@ import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, List
-from urllib.parse import quote_plus, urlparse
+from urllib.parse import urlparse
 
 import feedparser
 import requests
@@ -30,6 +30,7 @@ DATA_DIR = ROOT / "data"
 OUT_JSON = ROOT / "briefing.json"
 
 KST = timezone(timedelta(hours=9))
+
 SESSION = requests.Session()
 SESSION.headers.update({
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) "
@@ -37,7 +38,7 @@ SESSION.headers.update({
     "Accept-Language": "ko-KR,ko;q=0.9",
 })
 
-# 네이버 검색 뉴스 API 설정 (Secrets에 저장 권장)
+# 네이버 검색 뉴스 API 설정(Secrets로 주입)
 NAVER_CLIENT_ID = os.getenv("NAVER_CLIENT_ID", "").strip()
 NAVER_CLIENT_SECRET = os.getenv("NAVER_CLIENT_SECRET", "").strip()
 NAVER_NEWS_API = "https://openapi.naver.com/v1/search/news.json"
@@ -54,7 +55,7 @@ NAVER_RSS = {
     "sports": "https://sports.news.naver.com/rss/index.nhn?category=all",
 }
 
-# 카테고리 쿼리(네이버 API용)
+# 카테고리별 쿼리(네이버 API용)
 NEWS_QUERIES = {
     "politics": "정치",
     "economy": "경제",
@@ -87,51 +88,52 @@ def last_trading_day(base_dt: datetime) -> datetime:
 def clean_html_tags(s: str) -> str:
     if not s:
         return ""
-    # 네이버 API 응답의 <b>...</b> 제거 및 HTML 엔티티 언이스케이프
-    s = re.sub(r"<\/?b>", "", s)
-    s = re.sub(r"&quot;|&#34;", '"', s)
-    s = re.sub(r"&amp;|&#38;", "&", s)
-    s = re.sub(r"&lt;|&#60;", "<", s)
-    s = re.sub(r"&gt;|&#62;", ">", s)
-    s = re.sub(r"&apos;|&#39;", "'", s)
+    # 네이버 API 응답의 <b>...</b> 제거 및 HTML 엔티티 정리
+    s = re.sub(r"</?b>", "", s)
+    s = s.replace("&quot;", '"').replace("&apos;", "'").replace("&amp;", "&")
+    s = s.replace("&lt;", "<").replace("&gt;", ">")
     return s.strip()
 
 
 def host_to_src(url: str) -> str:
     try:
         host = urlparse(url).netloc
-        host = re.sub(r"^www\.", "", host)
-        return host or "뉴스"
+        return host.replace("www.", "") or "뉴스"
     except Exception:
         return "뉴스"
 
 
 def fetch_news_by_api() -> Dict[str, List[Dict[str, str]]]:
-    """네이버 검색 뉴스 Open API로 카테고리별 뉴스 수집"""
+    """네이버 검색 뉴스 Open API로 카테고리별 뉴스 수집(키 없으면 빈 dict 반환)"""
     if not NAVER_CLIENT_ID or not NAVER_CLIENT_SECRET:
-        return {}  # 없으면 폴백 사용
-    res: Dict[str, List[Dict[str, str]]] = {}
+        return {}
     headers = {
         "X-Naver-Client-Id": NAVER_CLIENT_ID,
         "X-Naver-Client-Secret": NAVER_CLIENT_SECRET,
     }
+    res: Dict[str, List[Dict[str, str]]] = {}
     for key, query in NEWS_QUERIES.items():
-        params = {"query": query, "display": MAX_HEADLINES_PER_CAT, "sort": "sim"}
         try:
+            params = {
+                "query": query,
+                "display": MAX_HEADLINES_PER_CAT,
+                "start": 1,
+                "sort": "date",  # 최신순; sim(유사도)로 바꾸고 싶으면 변경
+            }
             r = SESSION.get(NAVER_NEWS_API, headers=headers, params=params, timeout=10)
             r.raise_for_status()
             data = r.json()
             items: List[Dict[str, str]] = []
             for it in data.get("items", [])[:MAX_HEADLINES_PER_CAT]:
                 title = clean_html_tags(it.get("title", ""))
-                origin = it.get("originallink") or it.get("link") or ""
-                url = origin.strip()
+                url = (it.get("originallink") or it.get("link") or "").strip()
                 src = host_to_src(url)
                 if title and url:
                     items.append({"title": title, "url": url, "src": src})
             res[key] = items
             time.sleep(0.2)
         except Exception:
+            # 카테고리 단위 실패 시 비워두고 RSS 폴백에서 채움
             res[key] = []
     return res
 
@@ -146,18 +148,27 @@ def fetch_news_by_rss() -> Dict[str, List[Dict[str, str]]]:
             title = (e.get("title") or "").strip()
             link = (e.get("link") or "").strip()
             src = host_to_src(link) if link else "네이버뉴스"
-            items.append({"title": title, "url": link, "src": src})
+            if title and link:
+                items.append({"title": title, "url": link, "src": src})
         res[key] = items
         time.sleep(0.2)
     return res
 
 
 def build_news_section() -> Dict[str, List[Dict[str, str]]]:
-    # API 우선, 실패/미설정 시 RSS 폴백
+    """API 우선, 부족분은 RSS로 보충"""
     api_news = fetch_news_by_api()
-    if api_news and any(api_news.values()):
-        return api_news
-    return fetch_news_by_rss()
+    # API 키 없거나 결과가 비었으면 통째로 RSS 사용
+    if not api_news or all(len(v) == 0 for v in api_news.values()):
+        return fetch_news_by_rss()
+    # 일부 비어 있으면 RSS로 채우기
+    rss_news = None
+    for k, v in api_news.items():
+        if not v:
+            if rss_news is None:
+                rss_news = fetch_news_by_rss()
+            api_news[k] = rss_news.get(k, [])
+    return api_news
 
 
 def fetch_limit_up_real(max_items: int = 10) -> List[Dict[str, str]]:
@@ -209,8 +220,8 @@ def main() -> int:
         "date": ts.strftime("%Y-%m-%d"),
         "last_trading_day": ltd.strftime("%Y-%m-%d"),
         "weekend_note": "금요일 장 기준 브리핑입니다." if is_weekend else "",
-        "news": news,  # keys: politics,economy,society,culture,world,technology,entertainment,sports
-        "limit_up": limit_up,  # [{"name": "...", "reason": ""}, ...]
+        "news": news,
+        "limit_up": limit_up,
         "sectors": sectors,
         "sector_order": list(sectors.keys()),
     }
