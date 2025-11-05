@@ -32,7 +32,7 @@ jobs:
       - name: Build briefing.json
         run: |
           python scripts/make_briefing.py
-          test -f briefing.json && head -n 30 briefing.json || true
+          test -f briefing.json && head -n 40 briefing.json || true
 
       - name: Commit and push
         run: |
