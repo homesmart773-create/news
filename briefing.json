@@ -1,17 +1,385 @@
 {
-  "generated_at": "2025-11-05 07:44:59 UTC+09:00",
+  "generated_at": "2025-11-05 09:31:15 UTC+09:00",
   "date": "2025-11-05",
   "last_trading_day": "2025-11-05",
   "weekend_note": "",
   "news": {
-    "politics": [],
-    "economy": [],
-    "society": [],
-    "culture": [],
-    "world": [],
-    "technology": [],
-    "entertainment": [],
-    "sports": []
+    "politics": [
+      {
+        "title": "[단독]유승민, 정계복귀 시동?…강연서 “정치 그만두지 않았다”",
+        "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000499335",
+        "src": "ichannela.com"
+      },
+      {
+        "title": "'오송 위증 혐의' 김영환 충북지사, 약 4시간 조사 마쳐…\"정치탄압\"",
+        "url": "https://www.newsis.com/view/NISX20251104_0003390167",
+        "src": "newsis.com"
+      },
+      {
+        "title": "미국인 절반 이상 \"향후 5년 내 정치인 암살 가능성 있어\"",
+        "url": "https://www.yna.co.kr/view/AKR20251104023600009?input=1195m",
+        "src": "yna.co.kr"
+      },
+      {
+        "title": "조국 \"정치적 '메기' 되겠다\"...지방선거 흔들겠다는데",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=45800",
+        "src": "weekly.chosun.com"
+      },
+      {
+        "title": "국힘 추경호, 불체포 특권 포기…\"특검, 다분히 정치적\"",
+        "url": "https://www.nocutnews.co.kr/news/6423057?utm_source=naver&utm_medium=article&utm_campaign=20251104114041",
+        "src": "nocutnews.co.kr"
+      },
+      {
+        "title": "조국 \"조국혁신당, 내년 지방선거서 '정치적 메기' 되겠다\"",
+        "url": "https://www.joongang.co.kr/article/25379659",
+        "src": "joongang.co.kr"
+      },
+      {
+        "title": "[자막뉴스] \"한국, 정치인·아이돌도 음주운전\"…격앙된 일본 '분노 일파...",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008318156&plink=ORI&cooper=NAVER",
+        "src": "news.sbs.co.kr"
+      },
+      {
+        "title": "“정치인 영업에서 녹즙 영업으로” 근황 전한 박지현",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=0028922371&code=61121111&cp=nv",
+        "src": "kmib.co.kr"
+      },
+      {
+        "title": "장철민 \"청소년기관 수탁·운영 넥스트클럽, 정치·종교 편향\"",
+        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003180149&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "src": "ohmynews.com"
+      }
+    ],
+    "economy": [
+      {
+        "title": "APEC 효과?…한은 \"경제 심리 4년 3개월 만에 최고\"",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008317839&plink=ORI&cooper=NAVER",
+        "src": "news.sbs.co.kr"
+      },
+      {
+        "title": "이 대통령 “미국과 관세 협상 타결, 우리 경제 불확실성 완화”",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8398066&ref=A",
+        "src": "news.kbs.co.kr"
+      },
+      {
+        "title": "울산경제자유구역 내 국제학교 설립…市, 로드맵 세운다",
+        "url": "https://www.newsis.com/view/NISX20251104_0003390180",
+        "src": "newsis.com"
+      },
+      {
+        "title": "李대통령 \"한미 관세협상, 경제 불확실성 완화…영혼 갈아 넣으며 총력...",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2025/11/04/2025110490113.html",
+        "src": "news.tvchosun.com"
+      },
+      {
+        "title": "우리 국민의 경제 심리는?",
+        "url": "https://www.yna.co.kr/view/PYH20251104166200013?input=1196m",
+        "src": "yna.co.kr"
+      },
+      {
+        "title": "에이펙 효과·주식 불장 타고… 경제심리 4년 3개월來 최고 [뉴스 투데이...",
+        "url": "https://www.segye.com/newsView/20251104516568?OutUrl=naver",
+        "src": "segye.com"
+      },
+      {
+        "title": "CTX 민자적격성 통과… 충청권 경제적 파급 효과 '기대'",
+        "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2236782",
+        "src": "daejonilbo.com"
+      },
+      {
+        "title": "한은 \"경제심리 4년 3개월 만에 최고\"…APEC·관세 타결 영향",
+        "url": "https://www.nocutnews.co.kr/news/6422802?utm_source=naver&utm_medium=article&utm_campaign=20251104081840",
+        "src": "nocutnews.co.kr"
+      },
+      {
+        "title": "日처럼 해외 투자 의존 커지나…\"경제 전반 생산성 개선 유도해야\"",
+        "url": "https://view.asiae.co.kr/article/2025110412064195822",
+        "src": "view.asiae.co.kr"
+      }
+    ],
+    "society": [
+      {
+        "title": "'야간근무시 1일근무 8시간제한'…사회적대화 논의테이블 오를까",
+        "url": "https://www.yna.co.kr/view/AKR20251104154900530?input=1195m",
+        "src": "yna.co.kr"
+      },
+      {
+        "title": "대상그룹, 사회적기업 참여 '대상 존중 바자회' 개최",
+        "url": "https://www.newsis.com/view/NISX20251105_0003390397",
+        "src": "newsis.com"
+      },
+      {
+        "title": "“인구는 절반, 음주운전은 6배” 日 모녀 참변에 “한국 사회 문제”",
+        "url": "https://www.seoul.co.kr/news/society/accident/2025/11/04/20251104500136?wlog_tag3=naver",
+        "src": "seoul.co.kr"
+      },
+      {
+        "title": "SK이노, 사회적기업 '에이트린' 친환경 우산 LCA 무상 지원",
+        "url": "https://daily.hankooki.com/news/articleView.html?idxno=1291685",
+        "src": "daily.hankooki.com"
+      },
+      {
+        "title": "SK이노베이션, 사회적기업 '에이트린'에 전과정평가 무상 지원",
+        "url": "https://view.asiae.co.kr/article/2025110508421990616",
+        "src": "view.asiae.co.kr"
+      },
+      {
+        "title": "경사노위 위원장에 김지형 前대법관…\"사회적 대화 적임자\"",
+        "url": "https://www.nocutnews.co.kr/news/6422587?utm_source=naver&utm_medium=article&utm_campaign=20251103040839",
+        "src": "nocutnews.co.kr"
+      },
+      {
+        "title": "경사노위 위원장에 김지형 전 대법관…\"공정한 사회적대화 적임자\"",
+        "url": "https://news.tf.co.kr/read/ptoday/2258556.htm",
+        "src": "news.tf.co.kr"
+      },
+      {
+        "title": "경사노위 위원장에 김지형 前대법관…\"사회적 약자 보호 힘써\"",
+        "url": "https://www.yna.co.kr/view/AKR20251103120800001?input=1195m",
+        "src": "yna.co.kr"
+      },
+      {
+        "title": "“인공지능 사회로의 전환은 필연”…47초에 한 번꼴로 ‘AI’ 역설",
+        "url": "https://www.khan.co.kr/article/202511042344005",
+        "src": "khan.co.kr"
+      }
+    ],
+    "culture": [
+      {
+        "title": "넷마블문화재단, '2025 넷마블게임소통학교' 참가자 모집",
+        "url": "https://zdnet.co.kr/view/?no=20251104112501",
+        "src": "zdnet.co.kr"
+      },
+      {
+        "title": "“제주 해녀들의 쉼터 불턱을 아시나요”···해녀문화 핵심유산",
+        "url": "https://www.khan.co.kr/article/202511041455001",
+        "src": "khan.co.kr"
+      },
+      {
+        "title": "카카오페이, ‘소확행DAY' 진행…소비자중심경영 문화 확산",
+        "url": "https://www.newsis.com/view/NISX20251103_0003388346",
+        "src": "newsis.com"
+      },
+      {
+        "title": "[게임스냅] 넷마블문화재단, '게임소통학교' 참가 가족 모집",
+        "url": "https://www.yna.co.kr/view/AKR20251104073600017?input=1195m",
+        "src": "yna.co.kr"
+      },
+      {
+        "title": "증평군, 도안면 일원 복합문화공간 준공",
+        "url": "https://www.news1.kr/local/sejong-chungbuk/5964779",
+        "src": "news1.kr"
+      },
+      {
+        "title": "또 왕릉뷰? 세계문화유산 '종묘' 앞 34층 빌딩 논란",
+        "url": "http://www.fnnews.com/news/202511031401185747",
+        "src": "fnnews.com"
+      },
+      {
+        "title": "한화문화재단, 뉴욕에 한국 기업 최초 전시공간 개관",
+        "url": "https://www.newsis.com/view/NISX20251103_0003386993",
+        "src": "newsis.com"
+      },
+      {
+        "title": "코오롱 오운문화재단, 제25회 우정선행상 시상식 개최",
+        "url": "https://www.joongang.co.kr/article/25379415",
+        "src": "joongang.co.kr"
+      },
+      {
+        "title": "영월군민들 담은 가족사진, 영월문화예술회관서 10일까지 전시",
+        "url": "https://www.segye.com/newsView/20251104504581?OutUrl=naver",
+        "src": "segye.com"
+      }
+    ],
+    "world": [
+      {
+        "title": "외환보유액, 4288억달러로 21개월 래 최대…세계 9위 탈환",
+        "url": "https://www.newsis.com/view/NISX20251103_0003388229",
+        "src": "newsis.com"
+      },
+      {
+        "title": "외환보유액 4288억달러, 5개월 연속 증가…세계 9위로 한 단계↑",
+        "url": "https://www.news1.kr/economy/trend/5965089",
+        "src": "news1.kr"
+      },
+      {
+        "title": "엔비디아, 독일에 세계 첫 AI 산업단지 구축…1조6천억원 규모",
+        "url": "https://www.yna.co.kr/view/AKR20251105003200091?input=1195m",
+        "src": "yna.co.kr"
+      },
+      {
+        "title": "외환보유액 4288억달러, 5개월째 증가세…세계 9위로 한 단계↑",
+        "url": "https://www.hankyung.com/article/2025110541317",
+        "src": "hankyung.com"
+      },
+      {
+        "title": "외환보유액 4288억달러, 5개월째 증가세…‘세계 9위’ 탈환",
+        "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01846646642362768",
+        "src": "edaily.co.kr"
+      },
+      {
+        "title": "외환보유액 4288억 달러, 21개월만에 최대…세계 9위 회복",
+        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=269307",
+        "src": "womennews.co.kr"
+      },
+      {
+        "title": "머스크 거액보상안 \"반대\"…세계최대 국부펀드 '결단'",
+        "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202511050124&t=NN",
+        "src": "wowtv.co.kr"
+      },
+      {
+        "title": "10월 외환보유액 4288억달러…반 년 만에 세계 9위 탈환",
+        "url": "https://www.chosun.com/economy/economy_general/2025/11/05/Q532O2IXEFBUXEKMACWGA2TAWE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "src": "chosun.com"
+      },
+      {
+        "title": "엔비디아, 독일에 1조6000억원 규모 AI 산업단지 구축 ‘세계 최초’",
+        "url": "https://biz.heraldcorp.com/article/10608921?ref=naver",
+        "src": "biz.heraldcorp.com"
+      }
+    ],
+    "technology": [
+      {
+        "title": "단양 다누리아쿠아리움, 과기부 ‘전문과학관’ 등록",
+        "url": "http://www.breaknews.com/1156862",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "Korea’s future at risk as STEM talent leaves the country (KOR)",
+        "url": "https://koreajoongangdaily.joins.com/news/2025-11-04/englishStudy/bilingualNews/Koreas-future-at-risk-as-STEM-talent-leaves-the-country-KOR/2436073",
+        "src": "koreajoongangdaily.joins.com"
+      },
+      {
+        "title": "과학기술이 인류의 미래를 어떻게 인도할까?",
+        "url": "http://www.breaknews.com/1155615",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "매크로 암표, ‘과학기술의 진보’가 만든 탐욕의 산업",
+        "url": "http://www.breaknews.com/1155811",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "인천화도진도서관, 10월 ‘별별씨네마’ 및 과학자 재능기부 강연 ‘10월...",
+        "url": "http://www.breaknews.com/1153196",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "부산시, 양성자치료센터 설립 협약 체결...글로벌 암 치료 허브 도약",
+        "url": "http://www.breaknews.com/1158584",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "[김윤정의 일상혁신] AI, 기댈 때와 피할 때",
+        "url": "http://theviewers.co.kr/View.aspx?No=3839342",
+        "src": "theviewers.co.kr"
+      },
+      {
+        "title": "베트남 중부-북부지역 홍수·폭우로 인한 침수가 빈번한 이유",
+        "url": "http://www.breaknews.com/1158779",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "오송첨단의료산업진흥재단, ‘바이오로그(BIO-LOGUE) 기획특별전’ 참가",
+        "url": "http://www.breaknews.com/1158726",
+        "src": "breaknews.com"
+      }
+    ],
+    "entertainment": [
+      {
+        "title": "[문화연예 플러스] 아일릿, 애니의 교과서 '포켓몬스터'와 협업",
+        "url": "https://imnews.imbc.com/replay/2025/nwtoday/article/6772385_36807.html",
+        "src": "imnews.imbc.com"
+      },
+      {
+        "title": "[이슈] 성시경도 당했다…연예인 뒤통수 친 매니저",
+        "url": "https://news.jtbc.co.kr/article/NB12269246?influxDiv=NAVER",
+        "src": "news.jtbc.co.kr"
+      },
+      {
+        "title": "‘♥이병헌’ 이민정 아들 준후, 타고난 연예인 DNA “너무 능글맞아”...",
+        "url": "https://sports.khan.co.kr/article/202511050856003?pt=nv",
+        "src": "sports.khan.co.kr"
+      },
+      {
+        "title": "“살 빠지고 라인 정리된다고?” 女 연예인들 푹 빠진 ‘이 운동’은?",
+        "url": "https://kormedi.com/?p=2761720",
+        "src": "kormedi.com"
+      },
+      {
+        "title": "성시경 매니저도... 연예계 사기 피해 적신호",
+        "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=487260",
+        "src": "sportsq.co.kr"
+      },
+      {
+        "title": "\"결혼식 비용까지 전액부담\"…성시경, 주위서 '경고음' 울려도 끝까지 ...",
+        "url": "https://www.sportschosun.com/entertainment/2025-11-04/202511040100028270003771",
+        "src": "sportschosun.com"
+      },
+      {
+        "title": "가수→목사 된지 32년만에 복귀한 김종찬... \"마약보다 끊기 힘든 게 연...",
+        "url": "https://www.insight.co.kr/news/527506",
+        "src": "insight.co.kr"
+      },
+      {
+        "title": "[문화연예 플러스] 여진구, 12월 15일 카투사 입대",
+        "url": "https://imnews.imbc.com/replay/2025/nwtoday/article/6771984_36807.html",
+        "src": "imnews.imbc.com"
+      },
+      {
+        "title": "[AI 엔터 브리핑] 박중훈 등 연예인들, 에세이 열풍",
+        "url": "https://www.newspim.com/news/view/20251105000110",
+        "src": "newspim.com"
+      }
+    ],
+    "sports": [
+      {
+        "title": "코에 충전기 꽂고 “항암 중”…스포츠 스타의 몰락",
+        "url": "https://www.chosun.com/international/international_general/2025/11/05/KRSIK3S4ZVA4FOX2DKPOZCJZYY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "src": "chosun.com"
+      },
+      {
+        "title": "충전선 코에 꽂고 '암 환자 행세'…스포츠 영웅의 몰락",
+        "url": "https://www.newsis.com/view/NISX20251104_0003389763",
+        "src": "newsis.com"
+      },
+      {
+        "title": "코에 충전기 꽂고 암 걸린 척…팬 돈 뜯은 스포츠스타의 종말",
+        "url": "https://www.donga.com/news/Inter/article/all/20251105/132705581/2",
+        "src": "donga.com"
+      },
+      {
+        "title": "장애인체전 폐회…부산 13일간 스포츠 대장정 마무리",
+        "url": "https://www.yna.co.kr/view/AKR20251105020000051?input=1195m",
+        "src": "yna.co.kr"
+      },
+      {
+        "title": "코에 충전기 꽂고 암 환자 행세…6억 뜯어낸 스포츠 스타",
+        "url": "https://biz.heraldcorp.com/article/10609046?ref=naver",
+        "src": "biz.heraldcorp.com"
+      },
+      {
+        "title": "장애인체전 폐회…부산 13일간 스포츠 대장정 마무리",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008319291&plink=ORI&cooper=NAVER",
+        "src": "news.sbs.co.kr"
+      },
+      {
+        "title": "배틀그라운드 e스포츠 ‘PGS 9·10’ 누적 조회 수 1050만회 돌파",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=0028925600&code=61162013&cp=nv",
+        "src": "kmib.co.kr"
+      },
+      {
+        "title": "\"암 걸렸다\"…코에 아이폰 충전기 꽂고 6억 뜯어낸 스포츠스타",
+        "url": "https://www.hankyung.com/article/2025110541817",
+        "src": "hankyung.com"
+      },
+      {
+        "title": "컴투스 'SWC2025', 글로벌 대표 모바일 e스포츠 면모 과시",
+        "url": "https://zdnet.co.kr/view/?no=20251103153632",
+        "src": "zdnet.co.kr"
+      }
+    ]
   },
   "limit_up": [],
   "sectors": {
