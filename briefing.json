@@ -1,245 +1,250 @@
 {
-  "generated_at": "2025-11-19 07:45:20 UTC+09:00",
-  "date": "2025-11-19",
-  "last_trading_day": "2025-11-19",
+  "generated_at": "2025-11-20 07:44:26 UTC+09:00",
+  "date": "2025-11-20",
+  "last_trading_day": "2025-11-20",
   "weekend_note": "",
   "news": {
     "politics": [
       {
-        "title": "‘얄미운사랑’ 비밀 친구 등극",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202511190020",
-        "src": "bntnews.co.kr"
-      },
-      {
-        "title": "메타, 인스타그램·왓츠앱 인수 \"독점 아니다\"… 美 법원, FTC 주장 기각",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1687334",
-        "src": "ebn.co.kr"
-      },
-      {
-        "title": "\"세계 30개국 전기차주 41%, '테슬라 불매'…12%는 중국산 기피\"",
-        "url": "https://www.tfmedia.co.kr/news/article.html?no=197969",
-        "src": "tfmedia.co.kr"
-      },
-      {
-        "title": "정부-론스타 악연 '끝' … 4000억 배상 책임 소멸",
-        "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=236557",
-        "src": "safetimes.co.kr"
-      },
-      {
-        "title": "이찬원, 케네디 성욕에 질색(셀럽병사의비밀)",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202511190018",
-        "src": "bntnews.co.kr"
-      },
-      {
-        "title": "박지원 \"장동혁 정치 운명 내년 6월까지…장래 불안하니 헛발질\"",
-        "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2239724",
-        "src": "daejonilbo.com"
-      },
-      {
-        "title": "'장애인 혐오' 감싸는 국민의힘...한겨레 \"당 지도부가 더 문제\"",
-        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=330209",
+        "title": "'항소포기' 핵심 서울중앙지검장으로...한겨레 \"검찰 기강 잡기\"",
+        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=330230",
         "src": "mediatoday.co.kr"
       },
       {
-        "title": "2년 만의 귀환…KBS 대하사극 ‘문무’, 수신료 가치 증명할까",
-        "url": "https://sports.donga.com/ent/article/all/20251118/132792559/1",
-        "src": "sports.donga.com"
+        "title": "[더벨][2025 thebell 경영전략 Forum]“다자무역 체제 끝, 기업 전략 완전...",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511191100278960108389",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "신장식 \"김용범, 자녀 얘기에 분노…김은혜 반칙 때문\" [한판승부]",
-        "url": "https://www.nocutnews.co.kr/news/6430492?utm_source=naver&utm_medium=article&utm_campaign=20251119073058",
-        "src": "nocutnews.co.kr"
+        "title": "[더벨][포스코그룹 CEO 성과평가]이계인 포스코인터 사장, 구조개편 ‘속...",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511170945189600103268",
+        "src": "thebell.co.kr"
+      },
+      {
+        "title": "패스트트랙 충돌 오늘 선고…나경원·송언석 '의원직 상실형' 나오나",
+        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5155833",
+        "src": "mbn.co.kr"
+      },
+      {
+        "title": "[김진혁의 슬기로운 직장생활] 좋은 말, 운명을 결정한다",
+        "url": "http://www.ferrotimes.com/news/articleView.html?idxno=44730",
+        "src": "ferrotimes.com"
+      },
+      {
+        "title": "[신간]코스피 5000시대 최후 관문…'한반도 슈퍼 사이클'",
+        "url": "https://www.newsis.com/view/NISX20251119_0003409591",
+        "src": "newsis.com"
+      },
+      {
+        "title": "정성호 법무장관 \"한동훈의 소신 있는 결정으로 론스타에 승소\"",
+        "url": "https://www.ajunews.com/view/20251120073717073",
+        "src": "ajunews.com"
+      },
+      {
+        "title": "정달성 북구의원, ‘민주당 당 대표 특보‘ 공식 임명",
+        "url": "https://biz.heraldcorp.com/article/10619753?ref=naver",
+        "src": "biz.heraldcorp.com"
+      },
+      {
+        "title": "트럼프, 수단 내전 종식을 위해 아랍 지도자들과 협력 강조",
+        "url": "https://www.gokorea.kr/news/articleView.html?idxno=847190",
+        "src": "gokorea.kr"
       }
     ],
     "economy": [
       {
-        "title": "KT, 차기 대표이사 후보군 33명 선정",
-        "url": "https://www.newsinside.kr/news/articleView.html?idxno=4182765",
-        "src": "newsinside.kr"
+        "title": "[더벨][2025 thebell 경영전략 Forum]\"미·중 패권경쟁 전략변화 주목, 기...",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511191142358720106767",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "\"AI 원전 앞세워 제3국 진출\" … 한-UAE, 글로벌 에너지 협력 강화한다",
-        "url": "https://biz.newdaily.co.kr/site/data/html/2025/11/19/2025111900012.html",
-        "src": "biz.newdaily.co.kr"
+        "title": "[2025 자치혁신대상] 부산 기장군, ‘안데르센ㆍ동화마을’로 지역 문화...",
+        "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202511181627355380328",
+        "src": "dnews.co.kr"
       },
       {
-        "title": "메타, 인스타그램·왓츠앱 인수 \"독점 아니다\"… 美 법원, FTC 주장 기각",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1687334",
-        "src": "ebn.co.kr"
+        "title": "'항소포기' 핵심 서울중앙지검장으로...한겨레 \"검찰 기강 잡기\"",
+        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=330230",
+        "src": "mediatoday.co.kr"
       },
       {
-        "title": "램버트 前 美부차관보 \"내년 中서 北美회담하려면 러 협조 필요\"",
-        "url": "https://www.yna.co.kr/view/AKR20251119016700071?input=1195m",
-        "src": "yna.co.kr"
+        "title": "[더벨][thebell note]정기선 HD현대 회장의 '우문현답' 한달",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511171219344480105623",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "한·UAE, 원자력·AI 등 MOU 체결…\"150억불 방산 수주 기대\"",
-        "url": "https://news.jtbc.co.kr/article/NB12271520?influxDiv=NAVER",
-        "src": "news.jtbc.co.kr"
+        "title": "[더벨]김형년 두나무 부회장 \"사업보국하게 도와달라\"",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511191556132560107439",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "\"'보유세 낮다'는 구윤철 부총리, 틀렸다..'질식적 과세' 종부세 없애야...",
-        "url": "https://www.hankyung.com/article/202511144468i",
-        "src": "hankyung.com"
+        "title": "[더벨][KT 차기 리더는]숏리스트 공개 방침, 4인 인선자문단 꾸렸다",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511190834387280104238",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "‘셀 에브리싱’ 공포 확산…코스피·비트코인·금 동시 급락 [AI 프리즘...",
-        "url": "https://www.sedaily.com/NewsView/2H0IJ7UX5D",
-        "src": "sedaily.com"
+        "title": "[더벨][2025 thebell 경영전략 Forum]“다자무역 체제 끝, 기업 전략 완전...",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511191100278960108389",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "‘황소 돌파’ 위력시위 황희찬 “마무리는 보완”",
-        "url": "https://biz.heraldcorp.com/article/10618859?ref=naver",
-        "src": "biz.heraldcorp.com"
+        "title": "[더벨][금호타이어 생산체계 리빌딩]전화위복 화재사고, 신공장 '5000억'...",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511181459477760104568",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "HBM 공급 확대하는 삼성전자, 특허괴물이 또 뒷다리 잡았다 [AI 프리즘*기...",
-        "url": "https://www.sedaily.com/NewsView/2H0IISARB3",
-        "src": "sedaily.com"
+        "title": "해남군, 솔라시도 기업도시 외국교육기관 유치 본격",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=793131",
+        "src": "hansbiz.co.kr"
       }
     ],
     "society": [
       {
-        "title": "美하원, '엡스타인 문건 공개 법안' 427대 1로 가결…공화당도 압도적 찬...",
-        "url": "http://www.joseilbo.com/news/news_read.php?uid=557062&class=42&grp=",
-        "src": "joseilbo.com"
+        "title": "[더벨][thebell note]정기선 HD현대 회장의 '우문현답' 한달",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511171219344480105623",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "바르게살기운동 원주시협의회, 안전문화운동·기후변화대응 캠페인 진행",
-        "url": "https://www.sportsseoul.com/news/read/1564441?ref=naver",
-        "src": "sportsseoul.com"
+        "title": "[더벨][금호타이어 생산체계 리빌딩]전화위복 화재사고, 신공장 '5000억'...",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511181459477760104568",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "AI시대 평가, 지식 암기에서 서사 구성으로",
-        "url": "https://www.mediaus.co.kr/news/articleView.html?idxno=315243",
-        "src": "mediaus.co.kr"
+        "title": "태안군, 이원면에 '실버홈' 조성",
+        "url": "https://daily.hankooki.com/news/articleView.html?idxno=1298648",
+        "src": "daily.hankooki.com"
       },
       {
-        "title": "용인특례시, '아동학대 예방의 날' 기념행사 개최",
-        "url": "http://www.econonews.co.kr/news/articleView.html?idxno=414405",
-        "src": "econonews.co.kr"
+        "title": "MSS그룹, 조치원 생산공장 인근 환경 정화 '플로깅' 행사 진행",
+        "url": "https://www.newscj.com/news/articleView.html?idxno=3341840",
+        "src": "newscj.com"
       },
       {
-        "title": "\"'보유세 낮다'는 구윤철 부총리, 틀렸다..'질식적 과세' 종부세 없애야...",
-        "url": "https://www.hankyung.com/article/202511144468i",
-        "src": "hankyung.com"
+        "title": "'항소포기' 핵심 서울중앙지검장으로...한겨레 \"검찰 기강 잡기\"",
+        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=330230",
+        "src": "mediatoday.co.kr"
       },
       {
-        "title": "부산도서관, 공공도서관 미래 논의 포럼…AI시대 역할 논의",
-        "url": "https://www.newspim.com/news/view/20251119000040",
-        "src": "newspim.com"
+        "title": "[2025 다니엘기도회: 19일] 세상에서 보면 ‘기적’, 하나님께는 당연한...",
+        "url": "https://www.christiantoday.co.kr/news/371944",
+        "src": "christiantoday.co.kr"
       },
       {
-        "title": "금융위원회 공공기관 브랜드평판 11월 1위 신용보증기금, 2위 서민금융진...",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=397131",
+        "title": "정년연장, 국회 뜨거운 감자로 부상...노사 갈등 지속될까?",
+        "url": "https://www.gokorea.kr/news/articleView.html?idxno=847195",
+        "src": "gokorea.kr"
+      },
+      {
+        "title": "신안 해상서 267명 탄 여객선 좌초…3시간 만에 승객 전원 구조",
+        "url": "https://economist.co.kr/article/view/ecn202511200002",
+        "src": "economist.co.kr"
+      },
+      {
+        "title": "[금값 시세] G20 보고서 \"IMF 금 매각으로 개발도상국 부채 경감 가능\"",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=397574",
         "src": "pinpointnews.co.kr"
-      },
-      {
-        "title": "강남구, ‘아동학대 예방 주간’ 민관 합동 캠페인 실시",
-        "url": "https://biz.heraldcorp.com/article/10618858?ref=naver",
-        "src": "biz.heraldcorp.com"
-      },
-      {
-        "title": "경기도, 국내 최대 규모 축산 복합관광단지 '에코팜랜드' 25일 문열어",
-        "url": "https://www.tournews21.com/news/articleView.html?idxno=121078",
-        "src": "tournews21.com"
       }
     ],
     "culture": [
       {
-        "title": "바르게살기운동 원주시협의회, 안전문화운동·기후변화대응 캠페인 진행",
-        "url": "https://www.sportsseoul.com/news/read/1564441?ref=naver",
-        "src": "sportsseoul.com"
+        "title": "정년연장, 국회 뜨거운 감자로 부상...노사 갈등 지속될까?",
+        "url": "https://www.gokorea.kr/news/articleView.html?idxno=847195",
+        "src": "gokorea.kr"
       },
       {
-        "title": "원주시민, 교류도시 36개 문화·관광시설서 우대 혜택",
-        "url": "https://www.sportsseoul.com/news/read/1564440?ref=naver",
-        "src": "sportsseoul.com"
+        "title": "MSS그룹, 조치원 생산공장 인근 환경 정화 '플로깅' 행사 진행",
+        "url": "https://www.newscj.com/news/articleView.html?idxno=3341840",
+        "src": "newscj.com"
       },
       {
-        "title": "부산도서관, 공공도서관 미래 논의 포럼…AI시대 역할 논의",
-        "url": "https://www.newspim.com/news/view/20251119000040",
-        "src": "newspim.com"
+        "title": "[2025 자치혁신대상] 부산 기장군, ‘안데르센ㆍ동화마을’로 지역 문화...",
+        "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202511181627355380328",
+        "src": "dnews.co.kr"
       },
       {
-        "title": "부산시, 반려동물 피크닉 행사 '댕댕 선데이'…체험형 프로그램",
-        "url": "https://www.newspim.com/news/view/20251119000037",
-        "src": "newspim.com"
+        "title": "CU, 작가 킬드런과 '더 뮤즈 마일스 데이비스' 와인 출시",
+        "url": "https://www.newswhoplus.com/news/articleView.html?idxno=46469",
+        "src": "newswhoplus.com"
       },
       {
-        "title": "강남구, ‘아동학대 예방 주간’ 민관 합동 캠페인 실시",
-        "url": "https://biz.heraldcorp.com/article/10618858?ref=naver",
-        "src": "biz.heraldcorp.com"
+        "title": "서산시, 제31회 시민대상 수상자 선정",
+        "url": "https://daily.hankooki.com/news/articleView.html?idxno=1298628",
+        "src": "daily.hankooki.com"
       },
       {
-        "title": "경기도, 국내 최대 규모 축산 복합관광단지 '에코팜랜드' 25일 문열어",
-        "url": "https://www.tournews21.com/news/articleView.html?idxno=121078",
-        "src": "tournews21.com"
+        "title": "당진시농촌활성화지원센터, 2025년 성과공유회 개최",
+        "url": "https://daily.hankooki.com/news/articleView.html?idxno=1298626",
+        "src": "daily.hankooki.com"
       },
       {
-        "title": "연극 '튜링머신' 내년 1월 재연…이승주·이상윤·이동휘 출연",
-        "url": "https://www.newsis.com/view/NISX20251118_0003407914",
-        "src": "newsis.com"
+        "title": "해남군 '코리아 스포츠진흥대상' 리더부문 '대상'",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=793129",
+        "src": "hansbiz.co.kr"
       },
       {
-        "title": "“핵잠수함, 한미정상 차원서 확고한 의지…절차 걸림돌 안될 것”",
-        "url": "https://www.mk.co.kr/article/11471576",
-        "src": "mk.co.kr"
+        "title": "‘경북산림투어패스’ 시범운영 시작… 참가자 모집",
+        "url": "https://sports.khan.co.kr/article/202511200738003?pt=nv",
+        "src": "sports.khan.co.kr"
       },
       {
-        "title": "韓-UAE, '100년 동행' 공동선언…'바라카모델' 원전협력 확대",
-        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=849750",
-        "src": "getnews.co.kr"
+        "title": "[Who Is ?] 김창한 크래프톤 대표이사",
+        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=420671",
+        "src": "businesspost.co.kr"
       }
     ],
     "world": [
       {
-        "title": "카디비 효과 톡톡..아누아 TXA 세럼, 하루만에 틱톡 조회수 1천만 넘겨",
-        "url": "http://kpenews.com/View.aspx?No=3859703",
-        "src": "kpenews.com"
+        "title": "[더벨]‘리밸런싱’ 속도내는 SKIET, 신사업 FCW 매각",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511171422197040102280",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "에어부산 '부산~하노이' 6년 만에 운항 재개",
-        "url": "http://www.fnnews.com/news/202511190741043095",
-        "src": "fnnews.com"
-      },
-      {
-        "title": "\"'보유세 낮다'는 구윤철 부총리, 틀렸다..'질식적 과세' 종부세 없애야...",
-        "url": "https://www.hankyung.com/article/202511144468i",
-        "src": "hankyung.com"
-      },
-      {
-        "title": "'위키드: 포 굿', 드디어 개봉…압도적 예매율",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=15879101",
+        "title": "\"솔로도 최정상급\"…방탄소년단(BTS) 진, '포도알' 2주 연속 1위→글로벌...",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=15880361",
         "src": "topstarnews.net"
       },
       {
-        "title": "파로스아이바이오 \"PHI-101, 다수 제약사가 기술도입 검토중\"[바이오맥짚...",
-        "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01079126642367360",
-        "src": "edaily.co.kr"
+        "title": "'항소포기' 핵심 서울중앙지검장으로...한겨레 \"검찰 기강 잡기\"",
+        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=330230",
+        "src": "mediatoday.co.kr"
       },
       {
-        "title": "구글, '제미나이3' 출시...\"멀티모달·코딩·에이전트 역대 최고 성적\"",
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=204087",
-        "src": "aitimes.com"
+        "title": "[더벨][2025 thebell 경영전략 Forum]“다자무역 체제 끝, 기업 전략 완전...",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511191100278960108389",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "아르헨티나 농경지 대규모 침수로 최대 6만㎢ 피해",
-        "url": "https://www.ytn.co.kr/_ln/0104_202511190741292821",
-        "src": "ytn.co.kr"
+        "title": "[더벨][2025 thebell 경영전략 Forum]\"미·중 패권경쟁 전략변화 주목, 기...",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511191142358720106767",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "용산정비창 주택 7000가구로 축소…학교 추가 건립이 변수 [AI 프리즘*부...",
-        "url": "https://www.sedaily.com/NewsView/2H0IJP7GKW",
-        "src": "sedaily.com"
+        "title": "\"소디엑(XODIAC) AI 왕좌 세계관\"…네 번째 싱글 'Alibi'→비주얼 혁신 예...",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=15880362",
+        "src": "topstarnews.net"
       },
       {
-        "title": "아르헨, 韓 면적 60% 규모 농경지 물에 잠겼다",
-        "url": "https://www.dt.co.kr/article/12030123?ref=naver",
-        "src": "dt.co.kr"
+        "title": "해남군 '코리아 스포츠진흥대상' 리더부문 '대상'",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=793129",
+        "src": "hansbiz.co.kr"
+      },
+      {
+        "title": "[금값 시세] G20 보고서 \"IMF 금 매각으로 개발도상국 부채 경감 가능\"",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=397574",
+        "src": "pinpointnews.co.kr"
+      },
+      {
+        "title": "페로타임즈 손바닥뉴스 11월 20일(목)",
+        "url": "http://www.ferrotimes.com/news/articleView.html?idxno=44744",
+        "src": "ferrotimes.com"
       }
     ],
     "technology": [
+      {
+        "title": "[기고] 한국의 인공지능 전환점: 새로운 문명 질서의 여명",
+        "url": "http://www.hellodd.com/news/articleView.html?idxno=109941",
+        "src": "hellodd.com"
+      },
       {
         "title": "고위공직자·국회의원 다주택 보유..조성명 강남구청장·박민규 의원 1위",
         "url": "http://www.breaknews.com/1162167",
@@ -279,105 +284,100 @@
         "title": "대전 상장기업 시총 80조 돌파…AI 기업 ‘노타’ 상장으로 상승세 견인",
         "url": "http://www.breaknews.com/1160797",
         "src": "breaknews.com"
-      },
-      {
-        "title": "SKT, ‘1004·1472’ 골드번호 1만개 주인공 찾는다",
-        "url": "http://www.breaknews.com/1160232",
-        "src": "breaknews.com"
       }
     ],
     "entertainment": [
       {
-        "title": "‘얄미운사랑’ 비밀 친구 등극",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202511190020",
-        "src": "bntnews.co.kr"
+        "title": "[더벨][한국상륙 DAT 사업 진단]사명 4번 바뀐 사토시홀딩스, 신사업으로...",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511181504317120104787",
+        "src": "thebell.co.kr"
       },
       {
-        "title": "[송세인의 웃긴 독서] (39) 우리 딸 착한 건 내가 알아",
-        "url": "http://www.interview365.com/news/articleView.html?idxno=110691",
-        "src": "interview365.com"
+        "title": "검사 출신 변호사, 민희진 행태 두고 \"금방 들통날 거짓말 하는 막장드...",
+        "url": "https://www.tenasia.co.kr/article/2025112046154",
+        "src": "tenasia.co.kr"
       },
       {
-        "title": "‘어쩔수다 없다’ 독주될까...최고의 작품을 가려라 ‘청룡영화상’ [...",
-        "url": "https://www.mk.co.kr/article/11471311",
-        "src": "mk.co.kr"
+        "title": "'신세계 家' 애니, 폭로 당했다…타잔 \"동갑인데 무서워, 눈에서 번개 나...",
+        "url": "https://www.tenasia.co.kr/article/2025112045904",
+        "src": "tenasia.co.kr"
       },
       {
-        "title": "'연에인D/C'가 벼슬? 황보라, 4억원대 고급차 구매에 당당한 요구",
-        "url": "http://www.osen.co.kr/article/G1112699056",
-        "src": "osen.co.kr"
+        "title": "'새신랑' 김종민, ♥와이프 얼마나 좋으면…\"신혼이라 아침에 양치부터...",
+        "url": "https://www.tenasia.co.kr/article/2025112046424",
+        "src": "tenasia.co.kr"
       },
       {
-        "title": "“4억 넘는다고?” 황보라, 벤틀리 가격 듣고 연예인 DC 요구",
-        "url": "https://isplus.com/article/view/isp202511190007",
+        "title": "29기 옥순, 역대급 미모에 술렁…\"박수진·이주빈 닮았다\" ('나는솔로')",
+        "url": "https://www.tenasia.co.kr/article/2025111941884",
+        "src": "tenasia.co.kr"
+      },
+      {
+        "title": "28기 ‘나솔이’ 잉태 이어 29기 연상연하 ‘결혼 커플’ 탄생 발표 (‘...",
+        "url": "https://isplus.com/article/view/isp202511200010",
         "src": "isplus.com"
       },
       {
-        "title": "김용건 며느리 황보라, 4억 벤틀리 앞에서 결국 멈췄다… “연예인 DC도...",
-        "url": "https://www.mk.co.kr/article/11471574",
-        "src": "mk.co.kr"
+        "title": "최수종♥하희라, 결혼 32주년 자축…'연예계 대표 잉꼬부부' 늙지도 않...",
+        "url": "https://www.xportsnews.com/article/2080631",
+        "src": "xportsnews.com"
       },
       {
-        "title": "이혜숙, 17살에 미스해태 1회… 이미숙·원미경과 경쟁한 ‘인형 미모’...",
-        "url": "https://www.mk.co.kr/article/11471573",
-        "src": "mk.co.kr"
+        "title": "나는솔로 29기 결혼",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202511200014",
+        "src": "bntnews.co.kr"
       },
       {
-        "title": "[문화연예 플러스] '알바로 바캉스' 첫 방송",
-        "url": "https://imnews.imbc.com/replay/2025/nwtoday/article/6776878_36807.html",
-        "src": "imnews.imbc.com"
-      },
-      {
-        "title": "[문화연예 플러스] 김환기 전면점화, '123억 원' 낙찰",
-        "url": "https://imnews.imbc.com/replay/2025/nwtoday/article/6776877_36807.html",
-        "src": "imnews.imbc.com"
+        "title": "‘나는 솔로’ 또 해냈다! 29기 연상연하 결혼 커플 탄생",
+        "url": "https://sports.khan.co.kr/article/202511200735003?pt=nv",
+        "src": "sports.khan.co.kr"
       }
     ],
     "sports": [
       {
-        "title": "‘얄미운사랑’ 비밀 친구 등극",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202511190020",
-        "src": "bntnews.co.kr"
+        "title": "\"도쿄돔을 달군 200분\"…르세라핌, 'EASY CRAZY HOT'→日 원톱 걸그룹 굳...",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=15880363",
+        "src": "topstarnews.net"
       },
       {
-        "title": "방탄소년단 뷔 농구 라이브, 체대오빠 실사판 등장",
-        "url": "https://sports.donga.com/ent/article/all/20251119/132796057/1",
-        "src": "sports.donga.com"
+        "title": "르세라핌, 도쿄돔 8만을 홀렸다",
+        "url": "https://sports.khan.co.kr/article/202511200741003?pt=nv",
+        "src": "sports.khan.co.kr"
       },
       {
-        "title": "[더벨][건설사 대형 개발사업 점검]한화 건설부문, 9조 복합개발 '관리...",
-        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511141609388680108839",
+        "title": "[더벨]에이전트N, 네이버의 날개 될까",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511171710198480106974",
         "src": "thebell.co.kr"
       },
       {
-        "title": "역대 최다 8회·첫 2회 연속 '이달의 선수상' 세징야···대구FC 제주행...",
-        "url": "https://dgmbc.com/NewsArticle/637148",
-        "src": "dgmbc.com"
+        "title": "르세라핌, 8만 관객과 함께한 도쿄돔 첫 공연 \"부끄럽지 않은 아티스트...",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=695421",
+        "src": "slist.kr"
       },
       {
-        "title": "“야구 가르쳐주셔서 감사했다, 빠른 타구 긴장하길”…‘두산행’ 박...",
-        "url": "https://www.mk.co.kr/article/11471537",
+        "title": "당진시농촌활성화지원센터, 2025년 성과공유회 개최",
+        "url": "https://daily.hankooki.com/news/articleView.html?idxno=1298626",
+        "src": "daily.hankooki.com"
+      },
+      {
+        "title": "MLB, 넷플릭스-NBC 참여하는 새 중계권 계약 발표",
+        "url": "https://www.mk.co.kr/article/11472711",
         "src": "mk.co.kr"
       },
       {
-        "title": "세종시교육청, 전국학교스포츠클럽축전에서 14개 메달 획득",
-        "url": "https://www.eroun.net/news/articleView.html?idxno=67300",
-        "src": "eroun.net"
-      },
-      {
-        "title": "‘어쩔수다 없다’ 독주될까...최고의 작품을 가려라 ‘청룡영화상’ [...",
-        "url": "https://www.mk.co.kr/article/11471311",
-        "src": "mk.co.kr"
-      },
-      {
-        "title": "'2025 장수군 당구동호인 교류대회' 성료…동호인 100여명 참가",
-        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=792699",
+        "title": "해남군 '코리아 스포츠진흥대상' 리더부문 '대상'",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=793129",
         "src": "hansbiz.co.kr"
       },
       {
-        "title": "​​​​​​10월 취업자 19만명↑…청년 고용 부진 속 30대 '쉬었음' 사...",
-        "url": "https://www.newswhoplus.com/news/articleView.html?idxno=46301",
-        "src": "newswhoplus.com"
+        "title": "‘당신이 죽였다’ 이유미, 핏기 없는 얼굴로 펼친 절망 [SS인터뷰]",
+        "url": "https://www.sportsseoul.com/news/read/1564587?ref=naver",
+        "src": "sportsseoul.com"
+      },
+      {
+        "title": "[강상헌의 스포츠+] 홍명보호, 올해 A매치 일정 끝…돌아보는 2025년",
+        "url": "https://www.ajunews.com/view/20251120012605053",
+        "src": "ajunews.com"
       }
     ]
   },
