@@ -1,245 +1,270 @@
 {
-  "generated_at": "2026-01-01 07:40:29 UTC+09:00",
-  "date": "2026-01-01",
-  "last_trading_day": "2026-01-01",
+  "generated_at": "2026-01-02 07:40:07 UTC+09:00",
+  "date": "2026-01-02",
+  "last_trading_day": "2026-01-02",
   "weekend_note": "",
   "news": {
     "politics": [
       {
-        "title": "[2026년 신년사] 고봉길 신소재경제 대표",
-        "url": "http://amenews.kr/news/view.php?idx=65357",
-        "src": "amenews.kr"
+        "title": "[코스피·코스닥지수] 작년 코스피 '불장'에도 개인은 역대 최대 팔았다",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=194159",
+        "src": "lecturernews.com"
       },
       {
-        "title": "[전문] 신성범 의원, 병오년(丙午年) 신년사",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=666076",
-        "src": "newsfreezone.co.kr"
+        "title": "(2026 신년기획) 韓 태양광, '선택 강요하는 보호' 대신 '선택할 수밖에...",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=363432",
+        "src": "electimes.com"
       },
       {
-        "title": "아프리카 민주주의 위기 … '권위주의 회귀' 경계령",
-        "url": "https://www.gokorea.kr/news/articleView.html?idxno=852527",
-        "src": "gokorea.kr"
+        "title": "김주애, '선대수령 안치' 금수산궁전 첫 참배…김정은과 동행",
+        "url": "https://www.goodnews1.com/news/articleView.html?idxno=455150",
+        "src": "goodnews1.com"
       },
       {
-        "title": "[전문] 이재명 대통령 2026년 신년사",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3471225",
-        "src": "gukjenews.com"
+        "title": "[신년인터뷰 주무현 지방사회연구원장] \"남해안 위기 가속하는데 노동부...",
+        "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=232041",
+        "src": "labortoday.co.kr"
       },
       {
-        "title": "[미국읽기] 뉴욕은 준비됐나… 재정·올버니·폭설, 맘다니 앞에 쌓인 시...",
-        "url": "http://www.fnnews.com/news/202601010719172320",
-        "src": "fnnews.com"
+        "title": "손흥민 LAFC 파트너 부앙가의 대표팀 망했다… 나라 망신이라며 대표팀...",
+        "url": "https://www.besteleven.com/news/articleView.html?idxno=303283",
+        "src": "besteleven.com"
       },
       {
-        "title": "[신년사] 김성 장흥군수 \"일념통천(一念通天)의 자세로 혼신의 힘 다할...",
-        "url": "https://www.newscj.com/news/articleView.html?idxno=3358226",
-        "src": "newscj.com"
+        "title": "[신년사] 노동의 새로운 시대를 열겠습니다",
+        "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=232047",
+        "src": "labortoday.co.kr"
       },
       {
-        "title": "김종혁 \"당게 발표, 韓에 내부분란 이미지 덧씌워\"[한판승부]",
-        "url": "https://www.nocutnews.co.kr/news/6450328?utm_source=naver&utm_medium=article&utm_campaign=20260101073015",
-        "src": "nocutnews.co.kr"
+        "title": "'흥민이 형 나 어떡해' 부앙가 청천벽력...'최하위 탈락' 가봉 정부 대표...",
+        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=85266",
+        "src": "fourfourtwo.co.kr"
       },
       {
-        "title": "정치?…그럼에도 불구하고 우리가 잊지 말아야 하는 것들 [송서율의 관...",
-        "url": "https://www.dailian.co.kr/news/view/1593066/?sc=Naver",
-        "src": "dailian.co.kr"
+        "title": "\"모두가 좋아해\"…트럼프, '워싱턴 개선문' 계획 공개했다",
+        "url": "https://www.hankyung.com/article/2026010272257",
+        "src": "hankyung.com"
       },
       {
-        "title": "[단독] ‘큰 꿈’의 맥락은 어디였나…통일교 진영 행사에 기념사한 박...",
-        "url": "https://www.etoday.co.kr/news/view/2541345",
-        "src": "etoday.co.kr"
+        "title": "李 대통령, 오늘 신년 인사회…국힘 지도부 불참",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/01/02/2026010290008.html",
+        "src": "news.tvchosun.com"
       }
     ],
     "economy": [
       {
-        "title": "[신년사] 박동식 사천시장, \"우주항공복합도시 특별법 제정 총력\"",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=667086",
-        "src": "newsfreezone.co.kr"
+        "title": "(2026 신년기획) 韓 태양광, '선택 강요하는 보호' 대신 '선택할 수밖에...",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=363432",
+        "src": "electimes.com"
       },
       {
-        "title": "AI 혁신의 집합, 'CES 2026'에서 한국 대기업의 미래 비전 공개",
-        "url": "https://www.gokorea.kr/news/articleView.html?idxno=852532",
-        "src": "gokorea.kr"
+        "title": "(신년기획)에너지 업계에 드리우는 중대재해…변화 맞이할 때",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=363508",
+        "src": "electimes.com"
       },
       {
-        "title": "중소기업 성장 사다리 복원…2026년 도약의 해로 만들어 간다",
-        "url": "https://www.gokorea.kr/news/articleView.html?idxno=852528",
-        "src": "gokorea.kr"
+        "title": "충남도, 지속가능한 20년 미래 청사진 확정",
+        "url": "https://www.joongdo.co.kr/web/view.php?key=20260101010000174",
+        "src": "joongdo.co.kr"
       },
       {
-        "title": "[전문] 진병영 함양군수 '신년사'",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=667089",
-        "src": "newsfreezone.co.kr"
+        "title": "[선명상으로 새해를 열다] 1. 제안부터 대중화까지",
+        "url": "https://www.hyunbulnews.com/news/articleView.html?idxno=501476",
+        "src": "hyunbulnews.com"
       },
       {
-        "title": "[2026년 신년사] 고봉길 신소재경제 대표",
-        "url": "http://amenews.kr/news/view.php?idx=65357",
-        "src": "amenews.kr"
+        "title": "용산구, 2026 달라지는 구정과 제도 공개",
+        "url": "https://www.dailyt.co.kr/newsView/dlt202601020002",
+        "src": "dailyt.co.kr"
       },
       {
-        "title": "[전문] 박형준 부산시장, 병오년(丙午年) 신년사",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=666078",
-        "src": "newsfreezone.co.kr"
+        "title": "【오늘의 법조】 2026년 1월 2일",
+        "url": "https://www.lawtimes.co.kr/news/214626",
+        "src": "lawtimes.co.kr"
       },
       {
-        "title": "[전문] 이승화 산청군수 '신년사'",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=665778",
-        "src": "newsfreezone.co.kr"
+        "title": "SK하이닉스·삼성전자, HBM4 패권 전쟁 본격화…엔비디아 루빈 칩 공급권...",
+        "url": "https://www.g-enews.com/view.php?ud=202601020705135742fbbec65dfb_1",
+        "src": "g-enews.com"
       },
       {
-        "title": "[전문] 서일준 의원, 병오년(丙午年) 신년사",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=666077",
-        "src": "newsfreezone.co.kr"
+        "title": "92%→14% 대폭 인하...美, 伊파스타에 매긴 반(反)덤핑 관세 크게 낮춰",
+        "url": "https://biz.heraldcorp.com/article/10647258?ref=naver",
+        "src": "biz.heraldcorp.com"
       },
       {
-        "title": "[전문] \"2026년 창원시, 새로운 미래를 위해 힘차게 달려나가겠습니다\"",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=666384",
-        "src": "newsfreezone.co.kr"
+        "title": "도봉구, 지역사랑상품권 발행 우수 지방정부 선정",
+        "url": "https://biz.heraldcorp.com/article/10647259?ref=naver",
+        "src": "biz.heraldcorp.com"
       }
     ],
     "society": [
       {
-        "title": "안구 사진 분석을 통한 뇌신경 마비 진단 인공지능 기술 개발",
-        "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01508806645313456",
-        "src": "edaily.co.kr"
+        "title": "충남도, 지속가능한 20년 미래 청사진 확정",
+        "url": "https://www.joongdo.co.kr/web/view.php?key=20260101010000174",
+        "src": "joongdo.co.kr"
       },
       {
-        "title": "\"메타, 사기광고 규제 피하려 검색결과 조작…대응지침도 마련\"",
-        "url": "https://www.tfmedia.co.kr/news/article.html?no=199769",
-        "src": "tfmedia.co.kr"
+        "title": "[선명상으로 새해를 열다] 5. 줌으로 만난 '온라인 선명상'",
+        "url": "https://www.hyunbulnews.com/news/articleView.html?idxno=501498",
+        "src": "hyunbulnews.com"
       },
       {
-        "title": "마포노인복지관-서강대 '라온제나', 트로트 대잔치로 세대 화합 이뤄",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3471224",
-        "src": "gukjenews.com"
+        "title": "‘옥문아’ 새해 첫날 4.1%",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202601020020",
+        "src": "bntnews.co.kr"
       },
       {
-        "title": "딘딘, 선행으로 새해 열어...대한적십자사에 1000만원 기부",
-        "url": "https://www.slist.kr/news/articleView.html?idxno=705627",
-        "src": "slist.kr"
+        "title": "김주애, '선대수령 안치' 금수산궁전 첫 참배…김정은과 동행",
+        "url": "https://www.goodnews1.com/news/articleView.html?idxno=455150",
+        "src": "goodnews1.com"
       },
       {
-        "title": "[전문] 진병영 함양군수 '신년사'",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=667089",
-        "src": "newsfreezone.co.kr"
+        "title": "[선명상으로 새해를 열다] 3. 안성 참선마을 '참사랑의 향기' 현장",
+        "url": "https://www.hyunbulnews.com/news/articleView.html?idxno=501491",
+        "src": "hyunbulnews.com"
       },
       {
-        "title": "[전문] \"2026년 창원시, 새로운 미래를 위해 힘차게 달려나가겠습니다\"",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=666384",
-        "src": "newsfreezone.co.kr"
+        "title": "충남교육청, 2026 충남 온돌봄 운영 길라잡이 발간",
+        "url": "https://www.joongdo.co.kr/web/view.php?key=20260101010000177",
+        "src": "joongdo.co.kr"
       },
       {
-        "title": "[전문] 변광용 거제시장 '2026년 신년사'",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=666870",
-        "src": "newsfreezone.co.kr"
+        "title": "용산구, 2026 달라지는 구정과 제도 공개",
+        "url": "https://www.dailyt.co.kr/newsView/dlt202601020002",
+        "src": "dailyt.co.kr"
       },
       {
-        "title": "[전문] 이재명 대통령 2026년 신년사",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3471225",
-        "src": "gukjenews.com"
+        "title": "[선명상으로 새해를 열다] 6. 인터뷰-조계종 선명상위원장 금강 스님",
+        "url": "https://www.hyunbulnews.com/news/articleView.html?idxno=501501",
+        "src": "hyunbulnews.com"
       },
       {
-        "title": "아프리카 민주주의 위기 … '권위주의 회귀' 경계령",
-        "url": "https://www.gokorea.kr/news/articleView.html?idxno=852527",
-        "src": "gokorea.kr"
+        "title": "[선명상으로 새해를 열다] 1. 제안부터 대중화까지",
+        "url": "https://www.hyunbulnews.com/news/articleView.html?idxno=501476",
+        "src": "hyunbulnews.com"
       }
     ],
     "culture": [
       {
-        "title": "1,139명의 첫걸음을 함께하다",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3471226",
-        "src": "gukjenews.com"
+        "title": "용산구, 2026 달라지는 구정과 제도 공개",
+        "url": "https://www.dailyt.co.kr/newsView/dlt202601020002",
+        "src": "dailyt.co.kr"
       },
       {
-        "title": "[신년사] 박동식 사천시장, \"우주항공복합도시 특별법 제정 총력\"",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=667086",
-        "src": "newsfreezone.co.kr"
+        "title": "[선명상으로 새해를 열다] 1. 제안부터 대중화까지",
+        "url": "https://www.hyunbulnews.com/news/articleView.html?idxno=501476",
+        "src": "hyunbulnews.com"
       },
       {
-        "title": "마포노인복지관-서강대 '라온제나', 트로트 대잔치로 세대 화합 이뤄",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3471224",
-        "src": "gukjenews.com"
+        "title": "[선명상으로 새해를 열다] 6. 인터뷰-조계종 선명상위원장 금강 스님",
+        "url": "https://www.hyunbulnews.com/news/articleView.html?idxno=501501",
+        "src": "hyunbulnews.com"
       },
       {
-        "title": "[전문] 진병영 함양군수 '신년사'",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=667089",
-        "src": "newsfreezone.co.kr"
+        "title": "[영상구성] 올림픽-지방선거-월드컵…뜨거운 2026 밝았다",
+        "url": "https://news.jtbc.co.kr/article/NB12278053?influxDiv=NAVER",
+        "src": "news.jtbc.co.kr"
       },
       {
-        "title": "[전문] 이승화 산청군수 '신년사'",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=665778",
-        "src": "newsfreezone.co.kr"
+        "title": "[선명상으로 새해를 열다] 4. 혜주 스님 '선명상과 통합된 토요명상' 현...",
+        "url": "https://www.hyunbulnews.com/news/articleView.html?idxno=501495",
+        "src": "hyunbulnews.com"
       },
       {
-        "title": "[전문] 이재명 대통령 2026년 신년사",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3471225",
-        "src": "gukjenews.com"
+        "title": "새해가 기다려주지 않은 '해고' 노동자들",
+        "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=232044",
+        "src": "labortoday.co.kr"
       },
       {
-        "title": "[전문] 하승철 하동군수, 2026년 병오년(丙午年) 신년사",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=666923",
-        "src": "newsfreezone.co.kr"
+        "title": "[신년사] 모두가 행복하게 일할 수 있는 나라의 원년",
+        "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=232049",
+        "src": "labortoday.co.kr"
       },
       {
-        "title": "[전문] \"2026년 창원시, 새로운 미래를 위해 힘차게 달려나가겠습니다\"",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=666384",
-        "src": "newsfreezone.co.kr"
+        "title": "'커피 도시' 이면 '커피 노동'의 명암",
+        "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=232050",
+        "src": "labortoday.co.kr"
       },
       {
-        "title": "[전문] 변광용 거제시장 '2026년 신년사'",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=666870",
-        "src": "newsfreezone.co.kr"
+        "title": "\"혼외 성관계 발각되면 징역 1년\"…인도네시아, 새 형법 시행",
+        "url": "https://www.mt.co.kr/world/2026/01/02/2026010207250819286",
+        "src": "mt.co.kr"
       }
     ],
     "world": [
       {
-        "title": "[코스피·코스닥지수] 올해 코스피 상승률 1·2위는 동양고속·천일고속...",
-        "url": "https://www.lecturernews.com/news/articleView.html?idxno=194100",
-        "src": "lecturernews.com"
+        "title": "스위스 스키장 술집 화재…40명 사망·115명 부상",
+        "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5165954",
+        "src": "mbn.mk.co.kr"
       },
       {
-        "title": "[신년사] 박동식 사천시장, \"우주항공복합도시 특별법 제정 총력\"",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=667086",
-        "src": "newsfreezone.co.kr"
+        "title": "[선명상으로 새해를 열다] 2. 책으로 만나는 선명상",
+        "url": "https://www.hyunbulnews.com/news/articleView.html?idxno=501477",
+        "src": "hyunbulnews.com"
       },
       {
-        "title": "\"메타, 사기광고 규제 피하려 검색결과 조작…대응지침도 마련\"",
-        "url": "https://www.tfmedia.co.kr/news/article.html?no=199769",
-        "src": "tfmedia.co.kr"
+        "title": "[영상구성] 올림픽-지방선거-월드컵…뜨거운 2026 밝았다",
+        "url": "https://news.jtbc.co.kr/article/NB12278053?influxDiv=NAVER",
+        "src": "news.jtbc.co.kr"
       },
       {
-        "title": "'파격 시도' 역대 최고 254,000,000,000원 투자 준비! 맨체스터 유나이티...",
-        "url": "https://www.sportschosun.com/football/2026-01-01/202601010100002970000031",
-        "src": "sportschosun.com"
+        "title": "‘옥문아’ 새해 첫날 4.1%",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202601020020",
+        "src": "bntnews.co.kr"
       },
       {
-        "title": "'프로듀스48 중도 하차' 쥬리나, 아이돌과 결혼..혼인신고→기자회견 예...",
-        "url": "https://www.starnewskorea.com/overseas-entertain/2026/01/01/2026010107220620783",
-        "src": "starnewskorea.com"
+        "title": "‘2026년 첫 데뷔 그룹’ 알파드라이브원, 초대형 K-팝 신인 탄생",
+        "url": "https://www.newsen.com/news_view.php?uid=202601020736072410",
+        "src": "newsen.com"
       },
       {
-        "title": "AI 혁신의 집합, 'CES 2026'에서 한국 대기업의 미래 비전 공개",
-        "url": "https://www.gokorea.kr/news/articleView.html?idxno=852532",
-        "src": "gokorea.kr"
-      },
-      {
-        "title": "[SW뮤직] 2026 가요계, 키워드는 ‘완전체’",
-        "url": "https://www.sportsworldi.com/newsView/20260101502515",
-        "src": "sportsworldi.com"
-      },
-      {
-        "title": "아프리카 민주주의 위기 … '권위주의 회귀' 경계령",
-        "url": "https://www.gokorea.kr/news/articleView.html?idxno=852527",
-        "src": "gokorea.kr"
-      },
-      {
-        "title": "엔비디아, TSMC에 H200 칩 200만 개 증산 요청",
-        "url": "https://www.g-enews.com/view.php?ud=202601010703256191fbbec65dfb_1",
+        "title": "SK하이닉스·삼성전자, HBM4 패권 전쟁 본격화…엔비디아 루빈 칩 공급권...",
+        "url": "https://www.g-enews.com/view.php?ud=202601020705135742fbbec65dfb_1",
         "src": "g-enews.com"
+      },
+      {
+        "title": "[선명상으로 새해를 열다] 1. 제안부터 대중화까지",
+        "url": "https://www.hyunbulnews.com/news/articleView.html?idxno=501476",
+        "src": "hyunbulnews.com"
+      },
+      {
+        "title": "금천구, 오는 15일까지 구청 로비에 ‘평화통일 시와 그림 공모’ 수상...",
+        "url": "https://www.munhwa.com/article/11557977?ref=naver",
+        "src": "munhwa.com"
+      },
+      {
+        "title": "[선명상으로 새해를 열다] 6. 인터뷰-조계종 선명상위원장 금강 스님",
+        "url": "https://www.hyunbulnews.com/news/articleView.html?idxno=501501",
+        "src": "hyunbulnews.com"
       }
     ],
     "technology": [
+      {
+        "title": "[김윤정의 일상혁신] AI 시대 철학의 재발견",
+        "url": "http://theviewers.co.kr/View.aspx?No=3911383",
+        "src": "theviewers.co.kr"
+      },
+      {
+        "title": "마현(馬峴)의 강물은 알고 있다...“정치인들이여, 다산의 생가로 순례...",
+        "url": "http://www.breaknews.com/1173555",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "쿠팡의 개인정보 유출 사고-기업의 책임과 고객의 권리",
+        "url": "https://www.venturesquare.net/1019026",
+        "src": "venturesquare.net"
+      },
+      {
+        "title": "새로운 창세기, 사피엔스와 그의 친구들 - 완전해지는 순간 1화",
+        "url": "http://www.breaknews.com/1173538",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "지금까지 알려지 않는 세계적인 비밀 장소 : 모스크바의 지하도시",
+        "url": "http://www.breaknews.com/1173534",
+        "src": "breaknews.com"
+      },
       {
         "title": "[한국보건산업진흥원 2025년 창업도약패키지 선정기업] KAIST 박사 3인이...",
         "url": "https://magazine.hankyung.com/job-joy/article/202512315794d",
@@ -259,125 +284,100 @@
         "title": "엘리스그룹, 2025 AI반도체 응용실증 지원사업 완료",
         "url": "https://www.venturesquare.net/1030062",
         "src": "venturesquare.net"
-      },
-      {
-        "title": "충북대 이성근 교수, ‘25 국가연구개발 우수성과 100선 선정",
-        "url": "http://www.breaknews.com/1173186",
-        "src": "breaknews.com"
-      },
-      {
-        "title": "한국 핵융합 전문가, ITER 핵심 자문기구 의장 맡는다",
-        "url": "http://www.breaknews.com/1173085",
-        "src": "breaknews.com"
-      },
-      {
-        "title": "로저스 쿠팡 대표 “개인정보 유출 책임, 국회·당국 판단 따르겠다”",
-        "url": "http://www.breaknews.com/1172982",
-        "src": "breaknews.com"
-      },
-      {
-        "title": "이재명 대통령, 이혜훈 발탁 숨은 그림찾기",
-        "url": "http://www.breaknews.com/1172822",
-        "src": "breaknews.com"
-      },
-      {
-        "title": "[신간] K발명역사 이야기 - 5000년 한국발명역사 설화와 아름다운 이야...",
-        "url": "http://www.breaknews.com/1172807",
-        "src": "breaknews.com"
       }
     ],
     "entertainment": [
       {
-        "title": "'프로듀스48 중도 하차' 쥬리나, 아이돌과 결혼..혼인신고→기자회견 예...",
-        "url": "https://www.starnewskorea.com/overseas-entertain/2026/01/01/2026010107220620783",
-        "src": "starnewskorea.com"
+        "title": "“숙행, 유부남인건 알았지만 피해자”…‘불륜 의혹’ 남성 반박",
+        "url": "https://www.mk.co.kr/article/11921193",
+        "src": "mk.co.kr"
       },
       {
-        "title": "포레스텔라, KBS 연기대상 무대와 'Chosen One' 여운",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=15922523",
-        "src": "topstarnews.net"
-      },
-      {
-        "title": "\"얼굴 붓고, 체력 안 따라주고\"…20대 문가영 '건강 이상' [건강!톡]",
-        "url": "https://www.hankyung.com/article/2025123142287",
+        "title": "\"안성재 셰프 모수, 42만원에 주차도 안 돼\"…허위 AI 리뷰 주의보",
+        "url": "https://www.hankyung.com/article/2026010271917",
         "src": "hankyung.com"
       },
       {
-        "title": "‘활동중단’ 조세호 빈자리 속..유재석 “연예계=무탈 제일 어려워” ...",
-        "url": "http://www.osen.co.kr/article/G1112721492",
-        "src": "osen.co.kr"
+        "title": "숙행과 ‘불륜’ 男 “키스는 했지만 동거 안 해”",
+        "url": "https://www.segye.com/newsView/20260102501538?OutUrl=naver",
+        "src": "segye.com"
       },
       {
-        "title": "안성기라는 시간, 그리고 새해의 기도",
-        "url": "https://www.abcn.kr/news/articleView.html?idxno=85652",
-        "src": "abcn.kr"
+        "title": "[K컬처핫이슈] \"바람 잘 날 없었다\" 2025 연예결산…박나래부터 뉴진스...",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=617446",
+        "src": "digitaltoday.co.kr"
       },
       {
-        "title": "'조연상' 김동완, 무대 위 오열...\"나는 생활형 연예인, 섭외 안 돼 힘들...",
-        "url": "http://www.osen.co.kr/article/G1112721447",
-        "src": "osen.co.kr"
+        "title": "'키스' 숙행 불륜 논란 계속…입 연 유부남 \"내 여자문제 처음 아닌데, ...",
+        "url": "https://www.xportsnews.com/article/2095711",
+        "src": "xportsnews.com"
       },
       {
-        "title": "임윤아·이준호·닝닝·릴리…병오년 빛낼 말띠 스타들",
-        "url": "https://www.newsis.com/view/NISX20260101_0003461932",
-        "src": "newsis.com"
+        "title": "어도어, 다니엘 측에 431억 소송...박나래, 악재 겹쳐 '사면초가'",
+        "url": "https://www.ytn.co.kr/_ln/0106_202601020727090023",
+        "src": "ytn.co.kr"
       },
       {
-        "title": "[매거진] ‘리빙 레전드’ 박기량 치어리더 “더 바빠진 요즘, 더 열심히...",
-        "url": "https://m.sports.naver.com/general/article/065/0000290565",
-        "src": "m.sports.naver.com"
+        "title": "주우재, 어쩌다보니 '하루 1.5식'…90대 의사 \"절대 비추\" [건강!톡]",
+        "url": "https://www.hankyung.com/article/2026010272157",
+        "src": "hankyung.com"
       },
       {
-        "title": "박명수→송가인, 박나래 갑질 의혹 속 다시 한번 회자된 ★미담 [리-마인...",
-        "url": "https://www.tvreport.co.kr/breaking/article/981300/",
-        "src": "tvreport.co.kr"
+        "title": "“숙행도 피해자” 상간 논란 속 유부남의 주장 “동거 없었다…모든 책...",
+        "url": "https://www.sportsseoul.com/news/read/1575176?ref=naver",
+        "src": "sportsseoul.com"
+      },
+      {
+        "title": "하이키, '여름이었다'로 美英 최고의 K팝 입증",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=15923264",
+        "src": "topstarnews.net"
       }
     ],
     "sports": [
       {
-        "title": "김동연표, 일산대교 통행료 50% 전격 인하",
-        "url": "https://www.sportsseoul.com/news/read/1575014?ref=naver",
+        "title": "1억 달러 넘는다더니, 파격조건 수용…'日 58승' 이마이, 3년 5400만 달러...",
+        "url": "http://www.osen.co.kr/article/G1112721829",
+        "src": "osen.co.kr"
+      },
+      {
+        "title": "굿모닝스포츠) 한국가스공사, 고양에 69:70 충격의 역전패",
+        "url": "https://www.tbc.co.kr/news/view?pno=20260101165617AE04250&id=202119",
+        "src": "tbc.co.kr"
+      },
+      {
+        "title": "현대백화점, 신년 행사 '더 세일' 진행…최대 50% 할인",
+        "url": "https://news.tf.co.kr/read/economy/2278230.htm",
+        "src": "news.tf.co.kr"
+      },
+      {
+        "title": "1088만→1231만→다음은? 2026년 KBO리그, 또 어떤 기록을 쓸까 [SS포커스...",
+        "url": "https://www.sportsseoul.com/news/read/1575148?ref=naver",
         "src": "sportsseoul.com"
       },
       {
-        "title": "[전문] \"2026년 창원시, 새로운 미래를 위해 힘차게 달려나가겠습니다\"",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=666384",
-        "src": "newsfreezone.co.kr"
+        "title": "'흥민이 형 나 어떡해' 부앙가 청천벽력...'최하위 탈락' 가봉 정부 대표...",
+        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=85266",
+        "src": "fourfourtwo.co.kr"
       },
       {
-        "title": "[전문] 하승철 하동군수, 2026년 병오년(丙午年) 신년사",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=666923",
-        "src": "newsfreezone.co.kr"
+        "title": "최휘영 장관 “K-컬처 미래 핵심 성장산업으로 키워야”",
+        "url": "https://biz.heraldcorp.com/article/10647257?ref=naver",
+        "src": "biz.heraldcorp.com"
       },
       {
-        "title": "[신년사] 김성 장흥군수 \"일념통천(一念通天)의 자세로 혼신의 힘 다할...",
-        "url": "https://www.newscj.com/news/articleView.html?idxno=3358226",
-        "src": "newscj.com"
+        "title": "이지현, 두 번의 이혼 후 공황장애 고백…“119 불러 응급실, 아직 운전...",
+        "url": "https://www.mk.co.kr/article/11921191",
+        "src": "mk.co.kr"
       },
       {
-        "title": "현대百, 신년맞이 최대 50% 할인행사 '더 세일' 진행",
-        "url": "https://www.slist.kr/news/articleView.html?idxno=705624",
-        "src": "slist.kr"
+        "title": "[재벌 3세 경영⑮] 현대차를 '글로벌 톱3'로 키운 정몽구의 '현장주의'",
+        "url": "https://www.newsverse.kr/news/articleView.html?idxno=9296",
+        "src": "newsverse.kr"
       },
       {
-        "title": "거창군, 스포츠로 주민 복지·지역 경제 활성화 실현",
-        "url": "https://www.news1.kr/local/busan-gyeongnam/6025105",
-        "src": "news1.kr"
-      },
-      {
-        "title": "[2026년 신년사] 하승철 하동군수 \"이미 변화는 시작됐다\"",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3470786",
-        "src": "gukjenews.com"
-      },
-      {
-        "title": "웹툰·웹소설 없이 영화·드라마 없다?…현재는 [제자리걸음 웹툰·웹소...",
-        "url": "https://www.dailian.co.kr/news/view/1592713/?sc=Naver",
-        "src": "dailian.co.kr"
-      },
-      {
-        "title": "신세계百, 신년맞이 '신세계 페스타'...최대 70% 할인",
-        "url": "https://www.slist.kr/news/articleView.html?idxno=705623",
-        "src": "slist.kr"
+        "title": "\"차를 시가로 파나\" 논란 폭발…테슬라, 또 940만원 내린다 [모빌리티톡...",
+        "url": "https://www.hankyung.com/article/202512315147g",
+        "src": "hankyung.com"
       }
     ]
   },
