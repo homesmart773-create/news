@@ -1,245 +1,250 @@
 {
-  "generated_at": "2026-06-17 08:50:23 UTC+09:00",
-  "date": "2026-06-17",
-  "last_trading_day": "2026-06-17",
+  "generated_at": "2026-06-18 08:52:50 UTC+09:00",
+  "date": "2026-06-18",
+  "last_trading_day": "2026-06-18",
   "weekend_note": "",
   "news": {
     "politics": [
       {
-        "title": "김진경 경기도의회 의장 \"협치·혁신 노력, 지방자치 발전 밑거름 남길...",
-        "url": "https://www.joongboo.com/news/articleView.html?idxno=363728943",
-        "src": "joongboo.com"
+        "title": "\"데이터 주권 흔들릴라\"…유럽 각국 팔란티어 퇴출",
+        "url": "https://view.asiae.co.kr/article/2026061808452536483",
+        "src": "view.asiae.co.kr"
       },
       {
-        "title": "엔비디아 젠슨 황, \"AI시대 새 사회규범 필요\" 역설",
-        "url": "https://www.g-enews.com/view.php?ud=202606170839104649a1f309431_1",
+        "title": "“내놓으면 팔리던 시대 끝”...씨티케이가 본 다음 물결 [글로벌 K뷰티...",
+        "url": "https://www.mk.co.kr/article/12077062",
+        "src": "mk.co.kr"
+      },
+      {
+        "title": "화우·한경협, 하반기 입법·규제 동향 점검 세미나 개최",
+        "url": "https://www.mk.co.kr/article/12077058",
+        "src": "mk.co.kr"
+      },
+      {
+        "title": "[칼럼] 스스로에게 질문하고, 스스로 답을 찾는 에이전트",
+        "url": "http://www.aptn.co.kr/news/articleView.html?idxno=112201",
+        "src": "aptn.co.kr"
+      },
+      {
+        "title": "미셸 스틸, 주한미국대사 인준 통과…트럼프 2기 첫 정식 대사",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03243926645483032",
+        "src": "edaily.co.kr"
+      },
+      {
+        "title": "현대제철, 美 루이지애나 58억 달러 제철소 위해 초대형 R&D 파트너십 체...",
+        "url": "https://www.g-enews.com/view.php?ud=2026061808401598580c8c1c064d_1",
         "src": "g-enews.com"
       },
       {
-        "title": "JTBC 포함한 중앙 계열사 '국민 민폐'로 이어지나?",
-        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=386397",
-        "src": "fntoday.co.kr"
-      },
-      {
-        "title": "SF로 돌아온 스티븐 스필버그·고레에다 히로카즈, 기술의 시대에 인간...",
-        "url": "https://www.dailian.co.kr/news/view/1655747/?sc=Naver",
+        "title": "이긴 선거에 소청을?…장동혁의 속내",
+        "url": "https://www.dailian.co.kr/news/view/1657131/?sc=Naver",
         "src": "dailian.co.kr"
       },
       {
-        "title": "전쟁은 미국이, 청구서는 동맹국에?…“450조 기금, 한국도 참여 약속”",
-        "url": "https://www.etnews.com/20260617000022",
-        "src": "etnews.com"
+        "title": "[정치쇼] 유승민 \"국제대회 비용을 협회 직원들 개인 돈으로 내고 있는...",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008615897&plink=ORI&cooper=NAVER",
+        "src": "news.sbs.co.kr"
       },
       {
-        "title": "거창군의회 사상 첫 '여성 의장' 탄생하나… 4선 표주숙 당선자 '급부상...",
-        "url": "https://www.pointe.co.kr/news/articleView.html?idxno=80729",
-        "src": "pointe.co.kr"
-      },
-      {
-        "title": "예별손보 인수 뛰어든 기업은행…들러리? 구원투수?",
-        "url": "http://www.globalepic.co.kr/view.php?ud=2026061708351847907cc35ccc5c_29",
-        "src": "globalepic.co.kr"
-      },
-      {
-        "title": "투표용지 부족, 재선거?…서울시장의 경우 해당 안돼",
-        "url": "https://h21.hani.co.kr/arti/politics/politics_general/59478.html",
-        "src": "h21.hani.co.kr"
-      },
-      {
-        "title": "정청래 \"당 주인은 당원\" 김민석, 3일간 호남 일정…벌써 '전당대회 행보...",
-        "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5200249",
-        "src": "mbn.co.kr"
+        "title": "[초점] 징역 1년6개월 구형된 오세훈…'3300만원 대납' 입증이 시장직 운...",
+        "url": "http://www.newsian.co.kr/news/articleView.html?idxno=91101",
+        "src": "newsian.co.kr"
       }
     ],
     "economy": [
       {
-        "title": "짐 크레이머 \"스페이스X 몸값, 실적 아닌 일론 머스크가 만들었다\"",
-        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675716",
-        "src": "digitaltoday.co.kr"
+        "title": "李, G7 다자무대서 'AI·에너지' 연대 제안…\"높아진 위상·책임 확인\"",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1382746",
+        "src": "m-i.kr"
       },
       {
-        "title": "[뉴욕 브리핑] 유가 5% 급락에 기술주 차익실현…다우 또 사상최고",
-        "url": "https://news.dealsitetv.com/articles/171929",
-        "src": "news.dealsitetv.com"
+        "title": "뉴욕증시, 美 연준 연내 금리인상 시사에 하락",
+        "url": "https://www.cstimes.com/news/articleView.html?idxno=710193",
+        "src": "cstimes.com"
       },
       {
-        "title": "미·이란 종전 재건기금 454조원 추진…\"韓기업 등 절반이상 출자 약속...",
-        "url": "https://www.tjb.co.kr/news05/bodo/view/id/99628",
-        "src": "tjb.co.kr"
+        "title": "BTS 공연장을 ‘K-관광 무대’로 확장한 부산",
+        "url": "https://www.sedaily.com/article/20057131?ref=naver",
+        "src": "sedaily.com"
       },
       {
-        "title": "'낮엔 줄당기기, 밤엔 치맥' 태화강마두희축제 100% 즐기려면[영상]",
-        "url": "https://www.nocutnews.co.kr/news/6534120?utm_source=naver&utm_medium=article&utm_campaign=20260617084713",
-        "src": "nocutnews.co.kr"
+        "title": "불확실성만 키운 美-이란 종전 MOU...\"60일동안만 호르무즈 통행료 면제...",
+        "url": "https://www.livebiz.today/news/articleView.html?idxno=202706",
+        "src": "livebiz.today"
       },
       {
-        "title": "메리츠증권 \"하이비젼시스템, ESS 수주 확대…본업 반등 기대\"",
-        "url": "https://www.businessplus.kr/news/articleView.html?idxno=112947",
-        "src": "businessplus.kr"
+        "title": "BTS가 바꾼 부산의 일주일… 도시경제 흔들다",
+        "url": "http://www.newsian.co.kr/news/articleView.html?idxno=91103",
+        "src": "newsian.co.kr"
       },
       {
-        "title": "김상식호, 귀화 선수 5명 품고 아세안컵 출격... '기대 반 우려 반' 베트...",
-        "url": "https://www.ajunews.com/view/20260616174028893",
+        "title": "이란 협상대표 \"호르무즈, 전쟁 전으로 안 돌아간다\"…60일 뒤 통행료 재...",
+        "url": "https://www.ajunews.com/view/20260618082954579",
         "src": "ajunews.com"
       },
       {
-        "title": "[인터뷰] 이동철 여신협회장 \"회원사와 적극 소통…우호적 영업환경 조...",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4420344",
-        "src": "news.einfomax.co.kr"
+        "title": "모건스탠리 \"AI시대 최대 걸림돌은 전력 부족…美전력수요 10년 내 50%↑...",
+        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=872689",
+        "src": "getnews.co.kr"
       },
       {
-        "title": "박승구 대표, 단양 고향 친구 위해 100만 원 기탁",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3610189",
-        "src": "gukjenews.com"
-      },
-      {
-        "title": "인천시, 소상공인 경영환경 개선 지원…\"30일까지 신청\"",
-        "url": "https://www.newsis.com/view/NISX20260617_0003671866",
-        "src": "newsis.com"
+        "title": "인천시, 가맹점주 권익보호 나선다",
+        "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2440025",
+        "src": "enewstoday.co.kr"
       }
     ],
     "society": [
       {
-        "title": "미·이란 종전 재건기금 454조원 추진…\"韓기업 등 절반이상 출자 약속...",
-        "url": "https://www.tjb.co.kr/news05/bodo/view/id/99628",
-        "src": "tjb.co.kr"
+        "title": "李, G7 다자무대서 'AI·에너지' 연대 제안…\"높아진 위상·책임 확인\"",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1382746",
+        "src": "m-i.kr"
       },
       {
-        "title": "탈모 치료 급여 확대에 국민 의견수렴 예고한 복지부…건보 재정 우선순...",
-        "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=600974",
-        "src": "mdtoday.co.kr"
+        "title": "“가치소비 확산한다” 군포시, 사회적경제 제품 우선구매 교육 실시",
+        "url": "http://www.mediagunpo.co.kr/21503",
+        "src": "mediagunpo.co.kr"
       },
       {
-        "title": "부산도시공사 혈액사업유공 표창 수상",
-        "url": "https://www.imaeil.com/page/view/2026061621552548331",
-        "src": "imaeil.com"
+        "title": "모기약 바르려다 30m 높이서 헛디뎌 참변…브라질 또 극한스포츠 사고",
+        "url": "http://www.yonhapnewstv.co.kr/news/AKR20260618085128fer",
+        "src": "yonhapnewstv.co.kr"
       },
       {
-        "title": "[인터뷰] 이동철 여신협회장 \"회원사와 적극 소통…우호적 영업환경 조...",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4420344",
-        "src": "news.einfomax.co.kr"
+        "title": "경기도일자리재단, 제부도서 해양환경 정화활동 실시",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1382702",
+        "src": "m-i.kr"
       },
       {
-        "title": "박승구 대표, 단양 고향 친구 위해 100만 원 기탁",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3610189",
-        "src": "gukjenews.com"
+        "title": "양구 찾은 노병들, 신병들 계급장을 달아주다 [함영훈의 멋·맛·쉼]",
+        "url": "https://biz.heraldcorp.com/article/10774366?ref=naver",
+        "src": "biz.heraldcorp.com"
       },
       {
-        "title": "제천시사회보장협의체, 취약 307가구 사랑의 김치 전달",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3610180",
-        "src": "gukjenews.com"
+        "title": "NH농협은행, 호국보훈의 달 맞아 유공자 대상 포용금융 확대…상생 가치...",
+        "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=79821",
+        "src": "thefairnews.co.kr"
       },
       {
-        "title": "영웅 향한 감사의 마음…기장군 호국보훈 감사제 성료",
-        "url": "https://www.imaeil.com/page/view/2026061621464672321",
-        "src": "imaeil.com"
+        "title": "출생아 수 반등...구조적 전환은 미지수",
+        "url": "https://www.datasom.co.kr/news/articleView.html?idxno=208924",
+        "src": "datasom.co.kr"
       },
       {
-        "title": "\"테무서 1만원에 파는 옷이 2만원\" 에이블리 '택갈이' 방조 논란",
-        "url": "https://it.chosun.com/news/articleView.html?idxno=2023092163981",
-        "src": "it.chosun.com"
+        "title": "'나는 솔로' 돌싱 32기, 지점장 정숙→필라테스 강사 옥순…여성 출연진...",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16099269",
+        "src": "topstarnews.net"
       },
       {
-        "title": "국가유공자 보금자리 새단장…민간 나눔으로 주거환경 개선",
-        "url": "https://www.imaeil.com/page/view/2026061621381486353",
-        "src": "imaeil.com"
+        "title": "\"국민연금, 40년 설계에 실제 가입은 19.3년…기여이력 확대해야\"",
+        "url": "https://www.sentv.co.kr/article/view/sentv202606180009",
+        "src": "sentv.co.kr"
       }
     ],
     "culture": [
       {
-        "title": "'낮엔 줄당기기, 밤엔 치맥' 태화강마두희축제 100% 즐기려면[영상]",
-        "url": "https://www.nocutnews.co.kr/news/6534120?utm_source=naver&utm_medium=article&utm_campaign=20260617084713",
-        "src": "nocutnews.co.kr"
+        "title": "마스턴투자운용, 임직원 생성형 AI 교육…업무 효율화 추진",
+        "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065569938908356",
+        "src": "megaeconomy.co.kr"
       },
       {
-        "title": "부산도시공사 혈액사업유공 표창 수상",
-        "url": "https://www.imaeil.com/page/view/2026061621552548331",
-        "src": "imaeil.com"
+        "title": "홍콩관광청, 여름 할인 프로모션 실시",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202606180076",
+        "src": "bntnews.co.kr"
       },
       {
-        "title": "제14회 단양미술협회 정기회원전, 19일 올누림센터 개막",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3610186",
-        "src": "gukjenews.com"
+        "title": "경기도일자리재단, 제부도서 해양환경 정화활동 실시",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1382702",
+        "src": "m-i.kr"
       },
       {
-        "title": "국립인천해양박물관, 어린이집 원장단과 유아 해양교육 협력 논의",
-        "url": "https://www.livesnews.com/news/article.html?no=62016",
-        "src": "livesnews.com"
+        "title": "양구 찾은 노병들, 신병들 계급장을 달아주다 [함영훈의 멋·맛·쉼]",
+        "url": "https://biz.heraldcorp.com/article/10774366?ref=naver",
+        "src": "biz.heraldcorp.com"
       },
       {
-        "title": "\"유럽도 반했다\"…오스템임플란트, 9개국 의료진 사로잡은 '독보적 기술...",
-        "url": "https://www.youthdaily.co.kr/news/article.html?no=221069",
-        "src": "youthdaily.co.kr"
+        "title": "‘90만 송이 수국 물결 장생포 고래문화마을 수놓는다’",
+        "url": "https://www.sedaily.com/article/20057133?ref=naver",
+        "src": "sedaily.com"
       },
       {
-        "title": "국가유공자 보금자리 새단장…민간 나눔으로 주거환경 개선",
-        "url": "https://www.imaeil.com/page/view/2026061621381486353",
-        "src": "imaeil.com"
+        "title": "BTS가 바꾼 부산의 일주일… 도시경제 흔들다",
+        "url": "http://www.newsian.co.kr/news/articleView.html?idxno=91103",
+        "src": "newsian.co.kr"
       },
       {
-        "title": "시그니엘 부산, 조성진 공연 관람·호캉스 결합 패키지 선봬",
-        "url": "https://www.newsis.com/view/NISX20260617_0003671969",
-        "src": "newsis.com"
+        "title": "LF 헤지스, ‘해피퍼피 캠페인’ 성과…1000만원 기부도",
+        "url": "https://biz.heraldcorp.com/article/10774365?ref=naver",
+        "src": "biz.heraldcorp.com"
       },
       {
-        "title": "경북도, ‘지역 상권 육성’ 공모에서 사업비 185억원 확보",
-        "url": "https://www.kmib.co.kr/article/view.asp?arcid=0029979248&code=61121111&cp=nv",
-        "src": "kmib.co.kr"
-      },
-      {
-        "title": "부산 문화정책 밑그림 그린다…인수위 예술계 의견 수렴",
-        "url": "https://www.imaeil.com/page/view/2026061622413166653",
-        "src": "imaeil.com"
+        "title": "\"짧고 잦은 한국여행\"…복수비자 타고 중국인 방한 늘린다",
+        "url": "https://www.hankyung.com/article/202606183322g",
+        "src": "hankyung.com"
       }
     ],
     "world": [
       {
-        "title": "'월드컵 2연패 도전' 아르헨티나, 알제리전 선발 라인업 공개...'캡틴' 메...",
-        "url": "http://www.osen.co.kr/article/G1112822748",
+        "title": "구강 세균, 장으로 내려가 간질환 악화시킨다",
+        "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=96343",
+        "src": "kmedinfo.co.kr"
+      },
+      {
+        "title": "[AI 기로에 선 한국/上]GPU 넘어 로봇·클라우드까지…가속화하는 엔비...",
+        "url": "https://www.businessplus.kr/news/articleView.html?idxno=113002",
+        "src": "businessplus.kr"
+      },
+      {
+        "title": "李, G7 다자무대서 'AI·에너지' 연대 제안…\"높아진 위상·책임 확인\"",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1382746",
+        "src": "m-i.kr"
+      },
+      {
+        "title": "‘KBS 월드컵’ 메시·음바페 시청률 1위",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202606180075",
+        "src": "bntnews.co.kr"
+      },
+      {
+        "title": "\"호날두는 골칫거리, 감독은 무능\" 佛 언론의 맹폭 \"포르투갈의 짐덩이...",
+        "url": "http://www.osen.co.kr/article/G1112823575",
         "src": "osen.co.kr"
       },
       {
-        "title": "지니언스 EDR 솔루션, 글로벌 인증 획득…\"국내 기업 유일\"",
-        "url": "https://www.mt.co.kr/tech/2026/06/17/2026061708480668997",
-        "src": "mt.co.kr"
+        "title": "BTS 공연장을 ‘K-관광 무대’로 확장한 부산",
+        "url": "https://www.sedaily.com/article/20057131?ref=naver",
+        "src": "sedaily.com"
       },
       {
-        "title": "'낮엔 줄당기기, 밤엔 치맥' 태화강마두희축제 100% 즐기려면[영상]",
-        "url": "https://www.nocutnews.co.kr/news/6534120?utm_source=naver&utm_medium=article&utm_campaign=20260617084713",
-        "src": "nocutnews.co.kr"
+        "title": "하늘이 도왔다! 보지냐, 미국에서 어머니와 눈물 재회, '공짜' 비자 발급...",
+        "url": "https://www.sportschosun.com/football/2026-06-18/202606180100123200007998",
+        "src": "sportschosun.com"
       },
       {
-        "title": "\"유럽도 반했다\"…오스템임플란트, 9개국 의료진 사로잡은 '독보적 기술...",
-        "url": "https://www.youthdaily.co.kr/news/article.html?no=221069",
-        "src": "youthdaily.co.kr"
-      },
-      {
-        "title": "베이프, 국내 한정판 컬렉션 이틀 만에 완판",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02722406645482704",
-        "src": "edaily.co.kr"
-      },
-      {
-        "title": "부산도시공사 혈액사업유공 표창 수상",
-        "url": "https://www.imaeil.com/page/view/2026061621552548331",
-        "src": "imaeil.com"
-      },
-      {
-        "title": "KENTECH, 달 궤도 영상으로 '월면 3D지도'... CVPR 2026 채택",
-        "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=431617",
-        "src": "newsworker.co.kr"
-      },
-      {
-        "title": "한화-삼성증권·삼성SDS·삼성카드-하나은행, KAI-두나무 지분 매입",
-        "url": "http://www.wsobi.com/news/articleView.html?idxno=313815",
-        "src": "wsobi.com"
-      },
-      {
-        "title": "타이라 뱅크스, 넷플릭스에 소송…\"악의적 편집으로 명예훼손\"",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16097785",
-        "src": "topstarnews.net"
+        "title": "아이폰18, 결국 가격 인상…팀 쿡 \"40년 만에 처음 보는 일, 더는 못 버...",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676058",
+        "src": "digitaltoday.co.kr"
       }
     ],
     "technology": [
+      {
+        "title": "DGIST, AI 휴머노이드 국가연구과제 선정… 군집형 자율협업 기술 개발 ...",
+        "url": "http://www.breaknews.com/1214897",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "인천시, '스마트 해양빌리지 드론 시스템'성과...야간 갯벌 고립 시민 4...",
+        "url": "http://www.breaknews.com/1214775",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "KT그룹 희망나눔재단, 총 상금 5400만원 규모 ‘2026 K-AI 콘텐츠 공모전...",
+        "url": "http://www.breaknews.com/1214719",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "North Korea and China: Alignment or fracture? (KOR)",
+        "url": "https://www.koreajoongangdaily.com/bilingual-news/north-korea-and-china-alignment-or-fracture-kor/12727075",
+        "src": "koreajoongangdaily.com"
+      },
       {
         "title": "국제물류·무역산업 분야 AI 교육생 모집",
         "url": "https://www.naeil.com/news/read/592104?ref=naver",
@@ -264,120 +269,100 @@
         "title": "충북대 연구팀, 유전체 100% 일치하는 산삼 배양근 산업화 길 열었다",
         "url": "http://www.breaknews.com/1214288",
         "src": "breaknews.com"
-      },
-      {
-        "title": "밀양시, AI로 실종자 찾는다…행안부 공모 선정 국비 13억 확보",
-        "url": "http://www.breaknews.com/1214135",
-        "src": "breaknews.com"
-      },
-      {
-        "title": "POSTECH·교토대, 신약 개발 정확도 높일 ‘오가노이드칩’ 기술 동향 총...",
-        "url": "http://www.breaknews.com/1214085",
-        "src": "breaknews.com"
-      },
-      {
-        "title": "이재명 대통령, 교황청서 \"한반도 평화는 인류 공동의 과제… 연대의 밀...",
-        "url": "http://www.breaknews.com/1214051",
-        "src": "breaknews.com"
-      },
-      {
-        "title": "Korea needs to redesign its advisory committee system (KOR)",
-        "url": "https://www.koreajoongangdaily.com/bilingual-news/korea-needs-to-redesign-its-advisory-committee-system-kor/12722726",
-        "src": "koreajoongangdaily.com"
       }
     ],
     "entertainment": [
       {
-        "title": "차가원 측 \"임직원, 100만 원 못 받아 노동청 진정 제기… 모순\" 주장[전...",
-        "url": "https://www.mydaily.co.kr/page/view/2026061708470981623",
-        "src": "mydaily.co.kr"
+        "title": "'사기꾼들' 표창원, 최태성 잡으러 출격!…강연판 뒤흔들 '메기남'으로...",
+        "url": "https://news.jtbc.co.kr/article/NB12303782?influxDiv=NAVER",
+        "src": "news.jtbc.co.kr"
       },
       {
-        "title": "'김우빈♥' 신민아, 볼살 오르자 또 임신설 휩싸여... 팬들 \"과도한 억측...",
-        "url": "https://www.insight.co.kr/news/558867",
+        "title": "원희 사촌언니, ‘장원영 닮은꼴’로 이름 날렸는데…유학 가기 전 독주...",
+        "url": "https://www.tenasia.co.kr/article/2026061833064",
+        "src": "tenasia.co.kr"
+      },
+      {
+        "title": "서인영, ‘카이스트’ 촬영 당시 고백 “옆칸에서 ‘쟤 왜 왔대’ 욕 들...",
+        "url": "https://www.sportsseoul.com/news/read/1616891?ref=naver",
+        "src": "sportsseoul.com"
+      },
+      {
+        "title": "스테이씨·정예인 한날 출격! 컬투쇼부터 배텐까지 꽉 찬 SBS 라디오/ 6월...",
+        "url": "https://ent.sbs.co.kr/news/article.do?article_id=E10010318036&plink=ORI&cooper=NAVER",
+        "src": "ent.sbs.co.kr"
+      },
+      {
+        "title": "'300억 사기 혐의' 차가원 대표, 인권위 진정 제기... \"경찰에 인권침해...",
+        "url": "https://www.insight.co.kr/news/559058",
         "src": "insight.co.kr"
       },
       {
-        "title": "현대로 온 장희빈… ‘멋진 신세계’, 역사 왜곡 덫 피한 ‘절묘한 균형...",
-        "url": "https://sports.donga.com/ent/article/all/20260616/134124137/1",
-        "src": "sports.donga.com"
+        "title": "혜리 팬미팅 의상에 몸매 지적을…신민아에게도 향했다",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008615614&plink=ORI&cooper=NAVER",
+        "src": "news.sbs.co.kr"
       },
       {
-        "title": "CLC 권은빈, 연예계 은퇴 선언…“껍데기뿐인 인간관계 시간 낭비”",
-        "url": "https://www.joongang.co.kr/article/25437455",
-        "src": "joongang.co.kr"
+        "title": "‘구해줘! 홈즈’ 각자의 공간",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202606180069",
+        "src": "bntnews.co.kr"
       },
       {
-        "title": "기자 출신 女배우 이력 화제…'삼성'도 뛰쳐나온 재원",
-        "url": "https://www.newsis.com/view/NISX20260617_0003671912",
-        "src": "newsis.com"
+        "title": "출산하자마자 러닝을?…남보라, 쏟아지는 우려 메시지에→황급히 해명...",
+        "url": "https://www.tvreport.co.kr/entertainment/article/1054711/",
+        "src": "tvreport.co.kr"
       },
       {
-        "title": "로스냐 라스냐… 할리우드 스타들도 갈린 LA 발음",
-        "url": "https://www.koreadaily.com/article/20260616164115675",
-        "src": "koreadaily.com"
-      },
-      {
-        "title": "신기루 “모친상 후 울고 먹고 반복”…눈물 고백",
-        "url": "https://sports.donga.com/ent/article/all/20260617/134126364/1",
-        "src": "sports.donga.com"
-      },
-      {
-        "title": "강희수, '히든싱어8' 왕중왕전 우승…정인 완벽 재현",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16097769",
-        "src": "topstarnews.net"
-      },
-      {
-        "title": "'스파이더맨 커플' 톰 홀랜드·젠데이아, 결혼설 간접 인정",
-        "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000043045",
-        "src": "jnilbo.com"
+        "title": "이긴 선거에 소청을?…장동혁의 속내",
+        "url": "https://www.dailian.co.kr/news/view/1657131/?sc=Naver",
+        "src": "dailian.co.kr"
       }
     ],
     "sports": [
       {
-        "title": "패스하고 공을 쫓으며 몸의 언어를 익히다",
-        "url": "https://www.kyosu.net/news/articleView.html?idxno=206654",
-        "src": "kyosu.net"
+        "title": "모기약 바르려다 30m 높이서 헛디뎌 참변…브라질 또 극한스포츠 사고",
+        "url": "http://www.yonhapnewstv.co.kr/news/AKR20260618085128fer",
+        "src": "yonhapnewstv.co.kr"
       },
       {
-        "title": "에반, 강렬한 두 번째 콘셉트 포토",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202606170076",
+        "title": "홍콩관광청, 여름 할인 프로모션 실시",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202606180076",
         "src": "bntnews.co.kr"
       },
       {
-        "title": "임지호 “시구, 시켜주시면 뭐든 합니다”…SSG랜더스 향한 진심(인터뷰...",
-        "url": "https://www.mk.co.kr/article/12075539",
-        "src": "mk.co.kr"
+        "title": "“여성이지만 가슴은 싫어요”…유방 절제 후 맨몸 공개, 악플 쏟아진 ...",
+        "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260618601001&wlog_tag3=naver",
+        "src": "nownews.seoul.co.kr"
       },
       {
-        "title": "\"계약금 5~10%\" 권고…한국스포츠에이전트협회, 저가 수수료 경쟁 제동",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16097778",
-        "src": "topstarnews.net"
+        "title": "포르쉐 AG, 2027년형 타이칸 공개 … 최대 700km 주행거리",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/06/18/2026061800025.html",
+        "src": "biz.newdaily.co.kr"
       },
       {
-        "title": "대원미디어, 첫 글로벌 카드 박람회 성료…1만 2300명 찾았다",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02712566645482704",
-        "src": "edaily.co.kr"
+        "title": "외신 “손흥민 병역 특례 조롱에 미디어 보이콧”…협회 “존중과 보호...",
+        "url": "https://www.dailian.co.kr/news/view/1657139/?sc=Naver",
+        "src": "dailian.co.kr"
       },
       {
-        "title": "CJ제일제당, '소바바' 독립 브랜드로 치킨 빅3에 도전장",
-        "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=262823",
-        "src": "financialpost.co.kr"
+        "title": "부산 KCC, 제주서 국제 유소년 클럽 농구대회 개최…7개국 47개 팀 참가",
+        "url": "http://www.osen.co.kr/article/G1112823576",
+        "src": "osen.co.kr"
       },
       {
-        "title": "오비맥주 카스 \"월드컵 열기, 동네 펍에서 함께 즐긴다\"",
-        "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=248273",
-        "src": "insightkorea.co.kr"
+        "title": "성남시, 태평1, 은행1·금광2구역 재개발 주민설명회...24~25일",
+        "url": "https://www.sportsseoul.com/news/read/1616890?ref=naver",
+        "src": "sportsseoul.com"
       },
       {
-        "title": "헤지스 레드 아이템 매출 30% 증가…LF, 일상형 응원룩 수요 공략",
-        "url": "https://www.news1.kr/industry/distribution/6199585",
-        "src": "news1.kr"
+        "title": "한국타이어, 英 최대 전기차 축제 후원…'아이온' 앞세워 유럽 EV 시장 ...",
+        "url": "http://www.press9.kr/news/articleView.html?idxno=78068",
+        "src": "press9.kr"
       },
       {
-        "title": "에반, \"RIDE OR DIE\"로 내면의 갈망 폭발 예고",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16097783",
-        "src": "topstarnews.net"
+        "title": "커넥트웨이브 에누리 가격비교, 스포츠 샌들·슬리퍼 매출 증가세 확인",
+        "url": "http://www.lawissue.co.kr/view.php?ud=202606180844105086204ead0791_12",
+        "src": "lawissue.co.kr"
       }
     ]
   },
