@@ -1,245 +1,255 @@
 {
-  "generated_at": "2026-08-11 07:59:46 UTC+09:00",
-  "date": "2026-08-11",
-  "last_trading_day": "2026-08-11",
+  "generated_at": "2026-08-12 08:07:10 UTC+09:00",
+  "date": "2026-08-12",
+  "last_trading_day": "2026-08-12",
   "weekend_note": "",
   "news": {
     "politics": [
       {
-        "title": "[기고] 세제 개편이 뒤흔든 부동산 시장, 어디로 가나?",
-        "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049707",
-        "src": "shinailbo.co.kr"
+        "title": "美 비축유 43년 만에 최저…미·이란 협상 타결 여지 커졌다",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03352166645546664",
+        "src": "edaily.co.kr"
       },
       {
-        "title": "김민석·정청래, '호남 대전' 앞두고 정면 충돌…합당·리더십·과거사...",
-        "url": "https://www.newspim.com/news/view/20260811000066",
-        "src": "newspim.com"
+        "title": "젤렌스키 \"러시아, 9월 총선 후 대규모 동원 나설 것\"",
+        "url": "https://www.newsis.com/view/NISX20260812_0003745298",
+        "src": "newsis.com"
       },
       {
-        "title": "박지원 “정청래 뺀 신천지 사진 유포자, 민주당원이면 출당시켜야” [...",
-        "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58344",
-        "src": "sisain.co.kr"
+        "title": "뉴스와 인물] 안도걸, 민주당 초대 시당위원장 후보에게 듣는다",
+        "url": "https://mpmbc.co.kr/NewsArticle/1531774",
+        "src": "mpmbc.co.kr"
       },
       {
-        "title": "'하메네이 위독설'에 이란 대통령 \"7시간 면담\"",
-        "url": "https://biz.sbs.co.kr/article_hub/20000327852?division=NAVER",
-        "src": "biz.sbs.co.kr"
+        "title": "재벌 놀이터에서 K드라마 명장면으로…'K콘텐츠가 사랑한 골프장' [조수...",
+        "url": "https://www.hankyung.com/article/202608115274i",
+        "src": "hankyung.com"
       },
       {
-        "title": "교원 정치기본법 입법 움직임… 9월 국회 통과할까",
-        "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1548422",
-        "src": "knnews.co.kr"
+        "title": "대구·경북 복지부 산하기관 '싹쓸이' 통폐합 기류 … 호남엔 바이오클...",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100289.html",
+        "src": "biz.newdaily.co.kr"
       },
       {
-        "title": "北 “日 방위백서, 전쟁 기계 가동 합법화 노린 재침 백서”",
-        "url": "https://biz.heraldcorp.com/article/10836686?ref=naver",
-        "src": "biz.heraldcorp.com"
+        "title": "비대칭 스커트가 다시 유행? 2026 런웨이에 돌아온 하이로 헴라인",
+        "url": "https://www.harpersbazaar.co.kr/article/1907001",
+        "src": "harpersbazaar.co.kr"
       },
       {
-        "title": "단일종목 레버리지 후폭풍..운용사 상품 알리기도 ‘눈치보기’",
-        "url": "https://kpenews.com/View.aspx?No=4181480",
-        "src": "kpenews.com"
-      },
-      {
-        "title": "[시간들] 대통령 지지율 속락…'문제는 경제'라는 불변의 공식",
-        "url": "https://www.yna.co.kr/view/AKR20260810089300546?input=1195m",
+        "title": "[전국 주요 신문 사설](12일 조간)",
+        "url": "https://www.yna.co.kr/view/AKR20260812013000011?input=1195m",
         "src": "yna.co.kr"
       },
       {
-        "title": "민주당 전당대회 '초접전'..호남 선택에 승부 갈린다",
-        "url": "https://kjmbc.co.kr/NewsArticle/1531596",
-        "src": "kjmbc.co.kr"
+        "title": "[전국 주요 신문 톱뉴스](12일 조간)",
+        "url": "https://www.yna.co.kr/view/AKR20260812012800011?input=1195m",
+        "src": "yna.co.kr"
+      },
+      {
+        "title": "미 국무부, 외국인 비자 17만 5000건 취소...\"규정 위반 범죄 엄단\"",
+        "url": "https://www.g-enews.com/view.php?ud=202608111412043378fda4f5ab74_1",
+        "src": "g-enews.com"
       }
     ],
     "economy": [
       {
-        "title": "'런닝맨' 전소민 동생, 배달 알바 뛰는 근황…\"곧 마흔, 모아둔 돈도 없...",
-        "url": "https://www.mydaily.co.kr/page/view/2026081107225667953",
-        "src": "mydaily.co.kr"
+        "title": "트럼프, 이란 협상 부진에 경제 제재로 선회...AP, '경제적 분노 작전' ...",
+        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=280935",
+        "src": "womennews.co.kr"
       },
       {
-        "title": "인천 강화군, ‘사람이 들어오고 머무는 도시’ 만든다…인구 대도약 프...",
-        "url": "https://ic.newdaily.co.kr/site/data/html/2026/08/11/2026081100025.html",
-        "src": "ic.newdaily.co.kr"
+        "title": "[N2 현장] 전북 전주여성기업경영인협회, 폭염 속 전통시장으로…“지역...",
+        "url": "https://www.news2day.co.kr/article/20260811500296",
+        "src": "news2day.co.kr"
       },
       {
-        "title": "이더리움 수수료 99% 급감… 가격은 61% 폭락",
-        "url": "https://www.g-enews.com/view.php?ud=202608110755453971e7e8286d56_1",
+        "title": "지브롤터 해저 전력선, 스페인의 對모로코 압박 '에너지 제재 카드' 논란",
+        "url": "https://www.g-enews.com/view.php?ud=202608111512255249fda4f5ab74_1",
         "src": "g-enews.com"
       },
       {
-        "title": "\"유럽, 폭염에 올해 GDP 1％ 날아갈 수도…295조원 손실 전망\"",
-        "url": "https://www.tfmedia.co.kr/news/article.html?no=206362",
-        "src": "tfmedia.co.kr"
+        "title": "유방암 생존자 '이차암' 주의…70세 이상 위험 3배↑",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=415839",
+        "src": "medipana.com"
       },
       {
-        "title": "[오늘의 증시]호르무즈에 조정받은 美증시…코스피, 반등 이어갈까",
-        "url": "https://www.newsis.com/view/NISX20260811_0003743683",
-        "src": "newsis.com"
+        "title": "테슬라, 텍사스 101억달러 태양광공장…혜택없으면 타주행",
+        "url": "https://www.wikitree.co.kr/articles/1151887",
+        "src": "wikitree.co.kr"
       },
       {
-        "title": "고령군, 5182억 원 추경안 제출…‘민생·안전’ 292억 원 추가 편성",
-        "url": "https://tk.newdaily.co.kr/site/data/html/2026/08/10/2026081000282.html",
-        "src": "tk.newdaily.co.kr"
+        "title": "[부산소식] 부산시 어린이기자단 기사 작성 특강",
+        "url": "https://www.yna.co.kr/view/AKR20260812019200051?input=1195m",
+        "src": "yna.co.kr"
       },
       {
-        "title": "데프콘·유인나, 불륜 눈감은 '개천용' 교수 남편 사연에 \"기괴하다\" 경...",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16160183",
-        "src": "topstarnews.net"
+        "title": "日 \"북한, 탄도미사일 추정 물체 발사…일본 EEZ 밖 낙하\"",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03358726645546664",
+        "src": "edaily.co.kr"
       },
       {
-        "title": "[기고] 세제 개편이 뒤흔든 부동산 시장, 어디로 가나?",
-        "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049707",
-        "src": "shinailbo.co.kr"
+        "title": "외국인 관광객 364만명·3년연속 흑자…부산관광공사 경영평가 최상위",
+        "url": "https://www.news1.kr/local/busan-gyeongnam/6256170",
+        "src": "news1.kr"
       },
       {
-        "title": "김민석·정청래, '호남 대전' 앞두고 정면 충돌…합당·리더십·과거사...",
-        "url": "https://www.newspim.com/news/view/20260811000066",
-        "src": "newspim.com"
+        "title": "美 비축유 43년 만에 최저…미·이란 협상 타결 여지 커졌다",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03352166645546664",
+        "src": "edaily.co.kr"
       }
     ],
     "society": [
       {
-        "title": "도심 스마트팜 상추, 이웃 식탁으로",
-        "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2433442",
-        "src": "ccdailynews.com"
+        "title": "[서평] 기자 때려 치우고 절망의 끝에서 건넨 '희망 한 톨'",
+        "url": "http://www.netongs.com/news/articleView.html?idxno=334601",
+        "src": "netongs.com"
       },
       {
-        "title": "대한임상병리사협회, 김민석 후보에 방문검사 법적근거 요청",
-        "url": "https://www.k-health.com/news/articleView.html?idxno=100565",
-        "src": "k-health.com"
+        "title": "\"영하 20도·시간당 10mm 폭우도 버틴다\"…삼표, 미래 건설 기준 다시 썼...",
+        "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62736",
+        "src": "newsroad.co.kr"
       },
       {
-        "title": "의사·치과의사·변호사·회계사 청년들 뭉쳤다…'대한전문연합회' 출범",
-        "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041674",
-        "src": "docdocdoc.co.kr"
+        "title": "김고은·김재원 '윰세3'→신혜선 '레이디 두아'…백델데이, '백델초이스...",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=758195",
+        "src": "slist.kr"
       },
       {
-        "title": "이란, 3국 안보 협정 우려 일축…역내 자립 계기 평가",
-        "url": "https://www.g-enews.com/view.php?ud=202608110715112158fda4f5ab74_1",
-        "src": "g-enews.com"
+        "title": "[종합] '8년만 심경고백' 이종현 \"SNS 더 없을 것, 비연예인의 삶으로…...",
+        "url": "https://www.mydaily.co.kr/page/view/2026081208004701240",
+        "src": "mydaily.co.kr"
       },
       {
-        "title": "김수현 허위 주장한 유튜버 권영찬…명예훼손 혐의 일부 송치",
-        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03404646645546336",
-        "src": "edaily.co.kr"
+        "title": "유방암 생존자 '이차암' 주의…70세 이상 위험 3배↑",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=415839",
+        "src": "medipana.com"
       },
       {
-        "title": "“살아보려 일 배웠다”…‘정준영 단톡방’ 논란 이종현이 8년만에 전...",
-        "url": "https://www.mk.co.kr/article/12123651",
-        "src": "mk.co.kr"
+        "title": "[N2 현장] 전북 전주여성기업경영인협회, 폭염 속 전통시장으로…“지역...",
+        "url": "https://www.news2day.co.kr/article/20260811500296",
+        "src": "news2day.co.kr"
       },
       {
-        "title": "[기고] 세제 개편이 뒤흔든 부동산 시장, 어디로 가나?",
-        "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049707",
-        "src": "shinailbo.co.kr"
+        "title": "소재원 작가, 배우 하영에 \"조상이 그렇게 당당하다면 소록도 가보길\"",
+        "url": "http://enews.imbc.com/News/RetrieveNewsInfo/514467",
+        "src": "enews.imbc.com"
       },
       {
-        "title": "오만 해역서 100만 배럴 원유선 좌초…390㎢ 기름띠 확산에 환경 생태계...",
-        "url": "https://www.g-enews.com/view.php?ud=202608110644558823fda4f5ab74_1",
-        "src": "g-enews.com"
+        "title": "성추행 폭로에 주먹 휘두른 삼촌, 흉기로 맞선 조카… 법원 판단은 '정...",
+        "url": "https://www.busan.com/view/busan/view.php?code=2026081207524750427",
+        "src": "busan.com"
       },
       {
-        "title": "광명시, 자립희망 장애인 3~5명 LH 임대주택 입주 지원",
-        "url": "https://www.newsis.com/view/NISX20260811_0003743625",
-        "src": "newsis.com"
+        "title": "외국인 관광객 364만명·3년연속 흑자…부산관광공사 경영평가 최상위",
+        "url": "https://www.news1.kr/local/busan-gyeongnam/6256170",
+        "src": "news1.kr"
       }
     ],
     "culture": [
       {
-        "title": "카메론 하이랜드 리조트, '올드 잉글랜드' 크리스마스 점등식 행사진행",
-        "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1098255",
-        "src": "discoverynews.kr"
-      },
-      {
-        "title": "인천 강화군, ‘사람이 들어오고 머무는 도시’ 만든다…인구 대도약 프...",
-        "url": "https://ic.newdaily.co.kr/site/data/html/2026/08/11/2026081100025.html",
-        "src": "ic.newdaily.co.kr"
-      },
-      {
-        "title": "화장품 다음은 K패션…헤지스 명동점, 외국인 매출 70% 상승",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476101",
+        "title": "숙소서 공연까지 한 번에…놀유니버스, 'NOL 머니'로 락인 강화",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476484",
         "src": "pinpointnews.co.kr"
       },
       {
-        "title": "초미니 원피스 치어리더 조나현 '박자에 맞춰서 다다다다~' [치얼UP영상...",
-        "url": "https://www.mydaily.co.kr/page/view/2026080912442306580",
-        "src": "mydaily.co.kr"
+        "title": "“안 좋은 상황 분명”…‘韓레전드’ 박지성, 축협 ‘성 접대’ 의혹에...",
+        "url": "https://www.seoul.co.kr/news/society/2026/08/12/20260812500010?wlog_tag3=naver",
+        "src": "seoul.co.kr"
       },
       {
-        "title": "경북으로 단체여행 오면 ‘버스임차료’ 최대 80만원까지 지원한다",
-        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000002048&cp=nv",
-        "src": "kmib.co.kr"
+        "title": "[청정괴산] 2026 괴산고추축제 대전,  \"관람객 편의성 대폭 강화로 승부...",
+        "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=903614",
+        "src": "chungnamilbo.co.kr"
       },
       {
-        "title": "안동시, '2026 지역사랑 휴가지원 사업' 최종 선정",
-        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308660",
-        "src": "straightnews.co.kr"
-      },
-      {
-        "title": "[CEO와칭]정태영 현대카드 부회장, ‘빌드업’ 끝내고 ‘고도화’",
-        "url": "http://www.metroseoul.co.kr/article/20260811500012",
-        "src": "metroseoul.co.kr"
-      },
-      {
-        "title": "NHN링크 '어쩌면 해피엔딩', 대만 공연 유료 객석 점유율 97.5%",
-        "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=87765",
-        "src": "worktoday.co.kr"
-      },
-      {
-        "title": "푸마, '맨시티 하우스'에 1만명 방문...마르무시·라인더르스·몽가 출",
-        "url": "https://www.slist.kr/news/articleView.html?idxno=757944",
+        "title": "김고은·김재원 '윰세3'→신혜선 '레이디 두아'…백델데이, '백델초이스...",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=758195",
         "src": "slist.kr"
+      },
+      {
+        "title": "[부산소식] 부산시 어린이기자단 기사 작성 특강",
+        "url": "https://www.yna.co.kr/view/AKR20260812019200051?input=1195m",
+        "src": "yna.co.kr"
+      },
+      {
+        "title": "[가평 소식] 가평군, '폭염에 색 변하는 특수 스티커' 가로의 전신주 등...",
+        "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458235",
+        "src": "enewstoday.co.kr"
+      },
+      {
+        "title": "명예영국인 백진영 “LA공항 마비시킨 인기, 교수님까지 플러팅”",
+        "url": "https://news.jtbc.co.kr/article/NB12312898?influxDiv=NAVER",
+        "src": "news.jtbc.co.kr"
+      },
+      {
+        "title": "[단독] ‘수당이라더니 회의비 또 챙겼다’… 부산축제조직위 남덕현 집...",
+        "url": "https://www.etoday.co.kr/news/view/2613476",
+        "src": "etoday.co.kr"
+      },
+      {
+        "title": "관악문화재단, '2026 로열인문학' 개최…\"황호성·정재승 교수 참여\"",
+        "url": "http://www.beyondpost.co.kr/view.php?ud=2026081207570231492e75d13a3_30",
+        "src": "beyondpost.co.kr"
       }
     ],
     "world": [
       {
-        "title": "KT&G '에쎄', 이스탄불 공항 면세점 뚫었다…유럽·중동 공략 가속",
-        "url": "https://www.theguru.co.kr/news/article.html?no=105625",
-        "src": "theguru.co.kr"
+        "title": "교정·번역만 해도 AI 흔적 남는다… 클로드 워터마크 정체",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476481",
+        "src": "pinpointnews.co.kr"
       },
       {
-        "title": "김민솔, 세계랭킹 20위로 밀려…서교림·이예원·박현경은 지켜 [KLPGA]",
-        "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021454",
-        "src": "golfhankook.hankooki.com"
+        "title": "‘인턴’ 한소희, 워커홀릭 CEO 변신",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202608120064",
+        "src": "bntnews.co.kr"
       },
       {
-        "title": "'전독시' 게임 만든다…웹툰엔터, RI게임즈에 1천400억원 투자",
-        "url": "https://www.yna.co.kr/view/AKR20260811018200075?input=1195m",
-        "src": "yna.co.kr"
+        "title": "트럼프, 이란 협상 부진에 경제 제재로 선회...AP, '경제적 분노 작전' ...",
+        "url": "https://www.womennews.co.kr/news/articleView.html?idxno=280935",
+        "src": "womennews.co.kr"
       },
       {
-        "title": "계약 52건이 10조···'사고 막는 보험사' FM, 한국서 첫 연간 흑자",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=703354",
-        "src": "newsfreezone.co.kr"
+        "title": "블랙핑크 리사, '태국 차은우' 블루 퐁티왓과 열애설 솔솔…목격담 등장",
+        "url": "http://www.tvdaily.co.kr/read.php3?aid=17864893091797460010",
+        "src": "tvdaily.co.kr"
       },
       {
-        "title": "엔비디아 손잡은 월가 큰손들…AI 인프라에 약 710兆 베팅",
-        "url": "https://www.dt.co.kr/article/12077554?ref=naver",
-        "src": "dt.co.kr"
+        "title": "새로운 증시 약세장 경고…월가 전문가 \"좋지 않은 신호 발견\"",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429667",
+        "src": "news.einfomax.co.kr"
       },
       {
-        "title": "원위, 새 정규앨범 포스터 공개…‘세련+몽환’ 제복 스타일링",
-        "url": "https://swtvnews.com/news/newsview.php?ncode=1065565545829437",
-        "src": "swtvnews.com"
+        "title": "“6학년 여름방학이 골든타임”…국민멘토가 무조건 맞으라는 무료 백신...",
+        "url": "https://www.mk.co.kr/article/12124851",
+        "src": "mk.co.kr"
       },
       {
-        "title": "오만 해역서 100만 배럴 원유선 좌초…390㎢ 기름띠 확산에 환경 생태계...",
-        "url": "https://www.g-enews.com/view.php?ud=202608110644558823fda4f5ab74_1",
-        "src": "g-enews.com"
+        "title": "이마트, 고래잇 페스타…광어회부터 신학기 용품까지 최대 50% 할인",
+        "url": "http://www.newsdream.kr/news/articleView.html?idxno=116079",
+        "src": "newsdream.kr"
       },
       {
-        "title": "\"13개국서 AI·로봇 역량 겨뤘다\"…국립한밭대, '국제청소년로봇대회' 성...",
-        "url": "https://www.econovill.com/news/articleView.html?idxno=747606",
-        "src": "econovill.com"
+        "title": "관광 명소 ‘도로 위 잔디 산책로’…갑자기 없앤다고?",
+        "url": "http://www.kwangju.co.kr/article.php?aid=1786489200802203006",
+        "src": "kwangju.co.kr"
       },
       {
-        "title": "데이비스컵 파이널스 진출 놓고 한국과 맞붙는 인도, 대표선수 확정해 ...",
-        "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53443",
-        "src": "tennis.co.kr"
+        "title": "[회고 영화관] '유열의 음악앨범', 시공간이 빚은 존재론적 멜로",
+        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86382",
+        "src": "mediafine.co.kr"
       }
     ],
     "technology": [
+      {
+        "title": "DGIST, 조현병 전임상 동물모델 신뢰성 입증… 현정호 교수팀 연구 성과",
+        "url": "http://www.breaknews.com/1228118",
+        "src": "breaknews.com"
+      },
+      {
+        "title": "이재명 대통령 ‘내가 다 안다?’...“대통령 혼자 이끄는 나라, 아니다...",
+        "url": "http://www.breaknews.com/1228083",
+        "src": "breaknews.com"
+      },
       {
         "title": "[심층: 북한-이란 군사협력]1.이란 미사일 속 ‘북한의 흔적’…“기술...",
         "url": "https://www.voakorea.com/a/nk-iran-military-cooperation-081026/8184764.html",
@@ -261,123 +271,113 @@
         "src": "breaknews.com"
       },
       {
-        "title": "DGIST, 빛으로 신경 신호 조절하는 ‘광제어 생체 스위치’ 개발…뇌질...",
-        "url": "http://www.breaknews.com/1227343",
+        "title": "대구TP, AI·로봇 기반 공간컴퓨팅 예비창업자 모집…최대 3천만 원 지원",
+        "url": "http://www.breaknews.com/1227346",
         "src": "breaknews.com"
       },
       {
-        "title": "대구TP, AI·로봇 기반 공간컴퓨팅 예비창업자 모집…최대 3천만 원 지원",
-        "url": "http://www.breaknews.com/1227346",
+        "title": "DGIST, 빛으로 신경 신호 조절하는 ‘광제어 생체 스위치’ 개발…뇌질...",
+        "url": "http://www.breaknews.com/1227343",
         "src": "breaknews.com"
       },
       {
         "title": "파주 중앙도서관, 여름방학 맞아 어린이 메이커 캠프 운영",
         "url": "http://www.breaknews.com/1227116",
         "src": "breaknews.com"
-      },
-      {
-        "title": "이스라엘의 시리아 침공과 베두인-드루이즈-시리아 과도정부의 삼각분...",
-        "url": "http://www.breaknews.com/1227096",
-        "src": "breaknews.com"
-      },
-      {
-        "title": "120세까지 건강하게 살 수 있려면 꼭 알아야 할 이야기",
-        "url": "https://monthly.chosun.com/news/articleView.html?idxno=70950",
-        "src": "monthly.chosun.com"
       }
     ],
     "entertainment": [
       {
-        "title": "'런닝맨' 전소민 동생, 배달 알바 뛰는 근황…\"곧 마흔, 모아둔 돈도 없...",
-        "url": "https://www.mydaily.co.kr/page/view/2026081107225667953",
+        "title": "[종합] '8년만 심경고백' 이종현 \"SNS 더 없을 것, 비연예인의 삶으로…...",
+        "url": "https://www.mydaily.co.kr/page/view/2026081208004701240",
         "src": "mydaily.co.kr"
       },
       {
-        "title": "'전소민 동생' 배우 전욱민, 현재 배달 일 중 \"곧 마흔..이 나이에 부끄...",
-        "url": "https://www.starnewskorea.com/star/2026/08/11/2026081107414071879",
-        "src": "starnewskorea.com"
+        "title": "고영욱, 돌연 류수영♥박하선 부부 공개 저격…\"명품 사 날라, 감당 안 ...",
+        "url": "https://mhnse.com/news/articleView.html?idxno=1485780",
+        "src": "mhnse.com"
       },
       {
-        "title": "'게릴라콘서트 실패 1호' 강현수, 근황 공개…\"이번엔 실패 안 해\"",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/11/2026081107404910944",
-        "src": "mt.co.kr"
+        "title": "'대추나무 사랑걸렸네' 故 이경표, 활동 중단 후 복귀 3년 만→병환으로...",
+        "url": "https://www.tvreport.co.kr/star/article/1068128/",
+        "src": "tvreport.co.kr"
       },
       {
-        "title": "이종현, '정준영 단톡방' 파문 후 8년 \"평범한 삶이 얼마나 어려운지…...",
-        "url": "https://www.newsis.com/view/NISX20260811_0003743663",
-        "src": "newsis.com"
+        "title": "'황정민 스토킹 혐의' 여성에 천만 원 구형…최후진술서 꺼낸 말은",
+        "url": "https://star.ytn.co.kr/_sn/0117_202608120800020830",
+        "src": "star.ytn.co.kr"
       },
       {
-        "title": "뉴진스 하니 비자정보 누가 넘겼나…경찰, 어도어 유출 의혹 수사",
-        "url": "https://www.sidae.com/article/2026081107381995926",
-        "src": "sidae.com"
+        "title": "[카드뉴스] 문신 보이면 불편하세요? … 휴가철마다 반복되는 논쟁 '어...",
+        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260811000934462",
+        "src": "asiatoday.co.kr"
       },
       {
-        "title": "이승기, \"내가 입 열면 죽어\" 차가원 횡령 혐의 고소",
-        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86274",
-        "src": "mediafine.co.kr"
+        "title": "\"힘들 땐 도망치세요\"…테이, 친형 같던 매니저 사망 후 3년간 연예 활동...",
+        "url": "https://www.tenasia.co.kr/article/2026081254594",
+        "src": "tenasia.co.kr"
       },
       {
-        "title": "황정민 폭로 A씨, 사생활 논란 연예인들까지 소환…\"사과했으면 내가 뭘...",
-        "url": "https://www.xportsnews.com/article/2182210",
-        "src": "xportsnews.com"
-      },
-      {
-        "title": "'정준영 단톡방' 이종현 8년만 근황, 승리·최종훈·정준영 현재는",
-        "url": "https://www.mydaily.co.kr/page/view/2026081107095513572",
+        "title": "[전문] \"우파 좌파가 왜 나오냐?\"...김희철, 정치색 논란에 소신 밝혔다",
+        "url": "https://www.mydaily.co.kr/page/view/2026081207310749783",
         "src": "mydaily.co.kr"
       },
       {
-        "title": "‘정준영 단톡방’ 이종현, 씨엔블루 탈퇴 후 뷰티 마케터 됐다",
-        "url": "https://www.mk.co.kr/article/12123647",
-        "src": "mk.co.kr"
+        "title": "‘전소민 동생’ 전욱민 “사업 실패, 누나 돈 몇 년 동안…가정 책임지...",
+        "url": "https://www.newsen.com/news_view.php?uid=202608120744172110",
+        "src": "newsen.com"
+      },
+      {
+        "title": "‘전설의 사내’ 성리vs조권",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202608120060",
+        "src": "bntnews.co.kr"
       }
     ],
     "sports": [
       {
-        "title": "KB국민은행, 대학생 홍보대사 ‘슈팅스타 16기’ 모집",
-        "url": "https://www.sportsworldi.com/newsView/20260811504729",
-        "src": "sportsworldi.com"
+        "title": "‘명품 매장 점원’과 10년…호날두, 10년 열애 끝 결혼",
+        "url": "https://biz.heraldcorp.com/article/10838146?ref=naver",
+        "src": "biz.heraldcorp.com"
       },
       {
-        "title": "기능 넘어 스타일까지…뜨거워지는 '러닝웨어' 경쟁",
-        "url": "https://www.cstimes.com/news/articleView.html?idxno=716279",
-        "src": "cstimes.com"
+        "title": "크로스핏 커뮤니티 파고든 리복…트레이닝화 '나노' 판매 30%↑",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476480",
+        "src": "pinpointnews.co.kr"
       },
       {
-        "title": "변요한X노재원…독자적 세계관으로 돌아온 올 추석 ‘타짜4’",
-        "url": "https://sports.donga.com/ent/article/all/20260811/134454424/1",
-        "src": "sports.donga.com"
+        "title": "부동산 판 돈 연금 납입 시 양도세 감면 혜택, 내년 말 일몰",
+        "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000056130",
+        "src": "jnilbo.com"
       },
       {
-        "title": "초미니 원피스 치어리더 조나현 '박자에 맞춰서 다다다다~' [치얼UP영상...",
-        "url": "https://www.mydaily.co.kr/page/view/2026080912442306580",
-        "src": "mydaily.co.kr"
+        "title": "[상보] 7월 취업자 10만8000 증가…청년 고용률 1.6%p↓·실업률 1.3%p↑",
+        "url": "https://www.ajunews.com/view/20260812074340808",
+        "src": "ajunews.com"
       },
       {
-        "title": "‘극우 성향’ 윤서인, 하영 두둔했지만…“응원 아닌 ‘확인 도장’ 찍...",
-        "url": "https://www.mk.co.kr/article/12123650",
-        "src": "mk.co.kr"
+        "title": "7월 취업자 10만8천명 늘어…두달 연속 증가세",
+        "url": "https://www.hani.co.kr/arti/economy/economy_general/1272493.html",
+        "src": "hani.co.kr"
       },
       {
-        "title": "토트넘 양민혁, 또 임대될 듯…\"벨기에 베스테를로행 합의\"",
-        "url": "https://www.yna.co.kr/view/AKR20260811019500007?input=1195m",
-        "src": "yna.co.kr"
+        "title": "[속보]7월 취업자 10.8만명 증가…고용률 4개월째↓",
+        "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03332486645546664",
+        "src": "edaily.co.kr"
       },
       {
-        "title": "이강인, 긴 기다림 끝에 스페인 입성…“AT 마드리드 훈련 시설 있는 마...",
-        "url": "https://www.sportsworldi.com/newsView/20260811504670",
-        "src": "sportsworldi.com"
+        "title": "7월 취업자 10만명 늘었지만… 청년·40대·제조업 일자리는 뒷걸음",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/12/2026081200031.html",
+        "src": "biz.newdaily.co.kr"
       },
       {
-        "title": "푸마, '맨시티 하우스'에 1만명 방문...마르무시·라인더르스·몽가 출",
-        "url": "https://www.slist.kr/news/articleView.html?idxno=757944",
-        "src": "slist.kr"
+        "title": "7월 취업자 10만8천명 증가…고용률 4개월 연속 하락",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429666",
+        "src": "news.einfomax.co.kr"
       },
       {
-        "title": "포괄적 차별금지법이 통과된 서구사회의 현실",
-        "url": "http://www.pckworld.com/article.php?aid=11178547303",
-        "src": "pckworld.com"
+        "title": "7만7700원에 항공·호텔·F1까지…노홍철과 싱가포르 간다",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476475",
+        "src": "pinpointnews.co.kr"
       }
     ]
   },
